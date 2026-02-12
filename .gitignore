@@ -10,6 +10,7 @@ __pycache__/
 data/publications_all.json
 data/researchers.json
 data/publications_display_old.json
+data/publications_display_old2.json
 
 # Files not needed for app_publications.py
 data/publications_v1.json

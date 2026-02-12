@@ -1344,8 +1344,9 @@
           "orcid": "0000-0002-4921-9674"
         }
       ],
-      "abstract": null
-    }
+      "abstract": "The critical need to decontaminate surfaces from highly toxic chemical warfare agents (CWA) and the complexity of interfacial domains underscore the challenges associated with developing efficient surface cleanup technologies. To address these challenges and needs, we describe a light-switchable surface targeting microrobotic decontamination platform for accelerated biocatalytic degradation of surface-bound CWA. Biohybrid microrobots, based on <i>Chlamydomonas reinhardtii</i> algae, functionalized with the organophosphate-degrading enzyme phosphotriesterase (PTE), are shown to display unique light-switchable surface adhesion and gliding behaviors to offer an extremely efficient and fast surface decontamination. These biohybrid algae-PTE microrobots reversibly target hard-to-reach contaminated surfaces under blue light irradiation, while red light triggers their transition back to the bulk solution. In the surface-bound state, PTE-functionalized algae can glide collectively across the contaminated surface toward enhanced degradation efficiency. Upon completing the surface decontamination, the algae-PTE microrobots are easily released from the surface by switching to red irradiation. The applicability of the light-switchable microrobotic platform is demonstrated using a variety of contaminated surfaces, including fabrics, skin, and irregular solid surfaces, displaying surface-decontamination efficiencies higher than 90% within 5 min. Such highly efficient and rapid light-switchable surface targeting biocatalytic microrobotic platform holds considerable promise for diverse environmental surface remediation applications."
+    },
+    "summary": "A novel light-triggered microrobotic platform enhances the decontamination of surfaces tainted with chemical warfare agents through accelerated biocatalytic degradation. Utilizing biohybrid microrobots derived from algae, which are functionalized with a specific enzyme, this technology achieves over 90% efficiency in surface decontamination within just five minutes. The ability to control the adhesion of these microrobots with light not only improves cleanup efficacy but also offers a versatile approach for addressing diverse environmental contamination challenges."
   },
   {
     "journal_name": "Journal of the American Chemical Society",
@@ -1493,8 +1494,9 @@
           "orcid": "0000-0001-5581-8799"
         }
       ],
-      "abstract": null
-    }
+      "abstract": "Polyolefins are ubiquitous in consumer products but are notoriously difficult to recycle due to the inherent incompatibility of their common varieties. Current approaches to addressing this challenge often involve relatively complex syntheses or may compromise the properties of the parent materials. Here, a method is developed to compatibilize mixed polyolefins via acid-base interactions. With a single-step photocatalytic process, acid or base functionality can be readily installed onto polyolefins. The combination of acid- and base-modified polyolefins functions as a compatibilizers. Incorporating them into polyolefin blends results in excellent mechanical strength, with up to a 96-fold increase in ductility (from 22% to 2110%). Importantly, compatibilization can be readily achieved on postconsumer polyolefin mixtures. Furthermore, direct functionalization and compatibilization of polyolefin blends is achieved."
+    },
+    "summary": "A novel method that utilizes acid-base interactions to compatibilize polyolefin blends simplifies recycling by enhancing the compatibility of mixed polyolefins without compromising their desirable properties. The single-step photocatalytic process facilitates the installation of acid or base functional groups, leading to significant improvements in mechanical strength and ductility. This approach not only supports the recycling of postconsumer polyolefin waste but also enhances the material performance dramatically, marking a significant advancement in polymer compatibilization techniques."
   },
   {
     "journal_name": "ACS Nano",
@@ -1577,8 +1579,9 @@
           "orcid": "0000-0001-5480-1434"
         }
       ],
-      "abstract": null
-    }
+      "abstract": "Aqueous Zn//V<sub>2</sub>O<sub>5</sub> batteries (ZVBs) hold promise for large-scale energy storage due to their high safety and low cost, but face critical challenges of Zn dendrite growth and parasitic side reactions at the Zn anode, coupled with severe vanadium dissolution and shuttle at the V<sub>2</sub>O<sub>5</sub> cathode. Conventional strategies, such as electrolyte engineering or separator modifications, often focus on single-component optimization, neglecting synergistic anode and cathode regulation. Herein, we developed a Zeolite Socony Mobil-5 (ZSM-5) filled glass fiber separator (ZSM-5@GF) to address these issues simultaneously. The ZSM-5 zeolite facilitates the Zn<sup>2+</sup> desolvation via binding H<sub>2</sub>O molecules, suppressing HER and side reactions. And it could also homogenize the ion concentration distribution for dendrite-free Zn plating/stripping. Concurrently, ZSM-5 zeolite could also immobilize dissolved vanadium species via electrostatic adsorption, mitigating cathode degradation and shuttle-induced capacity fading. Benefiting from the synergistic anode/cathode interface regulation, both electrodes dramatically extended their cycle life, and an Ah-level pouch-type Zn//V<sub>2</sub>O<sub>5</sub> cell is also realized for continuous cycling. This bifunctional separator realizes synergistic stabilization of the Zn anode and V<sub>2</sub>O<sub>5</sub> cathode, offering a cost-effective and scalable strategy for high-performance AZVBs toward practical applications."
+    },
+    "summary": "Introducing a novel Zeolite Socony Mobil-5 filled glass fiber separator addresses critical challenges in aqueous Zn//V2O5 batteries by enabling dual-regulation of both the anode and cathode. This innovative approach suppresses issues like dendrite growth and vanadium shuttle, leading to significant improvements in cycle life and performance. The development paves the way for scalable, high-performance zinc ion batteries vital for large-scale energy storage solutions."
   },
   {
     "journal_name": "ACS Nano",
@@ -1664,8 +1667,9 @@
           "orcid": "0000-0001-9696-8830"
         }
       ],
-      "abstract": null
-    }
+      "abstract": "The generation and dissipation of heat in nanocrystals upon optical excitation is a process that may either limit or enhance their performance in certain applications. Using transient absorption spectroscopy, we tracked the flow of heat from plasmonic tin-doped indium oxide (ITO) nanocrystals to surface-adsorbed perylenediimide (PDI) molecules upon excitation of the ITO near-infrared plasmon resonance. We rationalize that the derivative line shapes observed in the transient absorption bleach features are the result of thermal transfer from the ITO core to surface ligands based on temperature-dependent static absorption studies of the PDI molecules adsorbed on plasmonic ITO. Through a series of pump power-dependent measurements, we demonstrate that the PDI heating time is largely fluence-independent at the powers measured, while the overall recovery time increases. Elucidating thermal transfer rates at the nanocrystal and organic ligand interface is key for applications such as plasmon-mediated photocatalysis, where heating may obstruct hot carrier transfer processes."
+    },
+    "summary": "New insights into thermal transfer between plasmonic indium tin oxide nanocrystals and adsorbed perylenediimide molecules reveal that heat flow significantly impacts their performance. The study finds that while the heating time remains largely independent of pump power, the overall recovery time increases, affecting efficiency. Understanding these interfacial thermal dynamics is crucial for optimizing applications like plasmon-mediated photocatalysis, where heat can hinder desired charge processes."
   },
   {
     "journal_name": "Inorganic Chemistry",
@@ -1741,8 +1745,9 @@
           "orcid": "0000-0003-3829-5134"
         }
       ],
-      "abstract": null
-    }
+      "abstract": "The development of cathode materials with high ionic conductivity and thermomechanical compatibility remains a major challenge for advancing solid oxide fuel cells (SOFCs), especially at intermediate operating temperatures. In this work, we present a comprehensive computational study of orthorhombic YBO<sub>3\u00b1\u03b4</sub> perovskites, where B = Sc, Ti, V, Cr, Mn, Fe, Co, or Ni, using a combined approach of density functional theory (DFT) and molecular dynamics (MD). We evaluate the influence of native defects, oxygen vacancies (V<sub>O</sub>), and interstitial oxygen (O<sub>i</sub>) on the structural, electronic, thermal, and ionic transport properties. Our results show that YCrO<sub>3</sub> and YTiO<sub>3</sub> exhibit thermal expansion coefficients (TECs) compatible with widely used electrolytes such as YSZ. Hybrid DFT calculations reveal that pristine compounds, except for YNiO<sub>3</sub>, behave as moderate-to-wide bandgap semiconductors, with native defects generally reducing the bandgap. MD simulations indicate that pristine (Pr) materials show negligible oxygen ion mobility, while the presence of defects substantially enhances ionic conductivity. O<sub>i</sub> defects are particularly effective, yielding lower activation energies and higher self-diffusion coefficients compared to V<sub>O</sub>. These findings demonstrate the critical role of defect engineering and highlight the potential of combined MD and DFT methodologies for the analysis and design of SOFC cathodes."
+    },
+    "summary": "This research unveils the significant impact of native defects on the properties of YBO3\u00b1\u03b4 perovskites, a promising material for solid oxide fuel cells. Key findings reveal that intrinsic defects, particularly interstitial oxygen, enhance ionic conductivity by lowering activation energies, making these materials more effective candidates for cathode applications. The work emphasizes the potential of utilizing advanced computational methods to optimize the design and performance of electrochemical components in energy solutions."
   },
   {
     "journal_name": "Inorganic Chemistry",
@@ -1801,8 +1806,9 @@
           "db_researcher_id": 371
         }
       ],
-      "abstract": null
-    }
+      "abstract": "Biaryl motifs are central in pharmaceutical drug design, yet conventional synthesis via palladium-catalyzed cross-coupling poses increasing sustainability and cost concerns. The study presented herein explores a greener alternative to palladium using iron(II) complexes supported by tetra-aza macrocyclic ligands for direct arylation of pyrrole with phenylboronic acids. Under aerobic conditions, the optimized [Fe<sup>2+</sup><b>L1</b>(Cl)<sub>2</sub>] complex of ligand Me<sub>2</sub>Cyclam (<b>L1</b>; 1,8-dimethyl-1,4,8,11-tetraazacyclotetradecane) showed broad substrate compatibility across 23 derivatives, achieving yields up to 66%, and excellent tolerance for functional groups including halides, esters, and strong electron-deficient substituents. Systematic analysis of these results suggests that meta-substitution and mild electron-withdrawing effects favor reactivity, while bulky ortho-steric hindrance suppresses coupling. Mechanistic studies ruled out outer-sphere radical pathways and high-valent iron complexes but do suggest iron(III)-hydroperoxo species as the operative oxidant. Density functional theory (DFT) analysis was carried out on the boronic acid substrates to show that electron-withdrawing substituents enhance the boron electrophilicity and promote the proposed transmetalation step, positioning this step as a key target for mechanistic activation of the substrate. These findings highlight the potential of earth-abundant iron catalysts as sustainable, cost-effective platforms for C-C bond formation in complex molecular scaffolds."
+    },
+    "summary": "Introducing a novel iron(II) complex with tetra-aza macrocyclic ligands presents a sustainable alternative for the direct arylation of unactivated arenes, reducing reliance on palladium catalysts. This method demonstrates broad substrate compatibility and significant functional group tolerance, making it suitable for diverse pharmaceutical applications. The mechanistic insights reveal that electron-withdrawing substituents enhance reactivity, emphasizing the practical significance of iron catalysts in developing cost-effective synthetic processes."
   },
   {
     "journal_name": "Analytical Chemistry",
@@ -1884,8 +1890,9 @@
           "texas_affiliation": true
         }
       ],
-      "abstract": null
-    }
+      "abstract": "Rapid and accurate detection of methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) is essential for guiding clinical treatment and preventing infections. Current dual-gene detection methods based on CRISPR-Cas systems often require additional transcription steps, which increase the complexity of the assay and extend the turnaround time. Here, we report a single-tube dual-gene detection platform that leverages the orthogonal <i>trans</i>-cleavage preferences of Cas9 and Cas12a. By exploiting the loss of RNA cleavage activity in Cas12a when guided by split crRNA, and the inability of Cas9 to cleave DNA hairpin probes, we established a single-tube assay capable of simultaneously detecting the MRSA resistance gene (<i>mecA</i>) and the <i>S. aureus</i>-specific nuclease gene (<i>nuc</i>). The platform achieved attogram-level sensitivity and single-cell detection with high specificity against non-MRSA strains. Validation in an <i>in vivo</i> tilapia infection model demonstrated complete concordance with qPCR, reaching 100% positive and negative percent agreements. This work presents a streamlined, accurate, and practical approach for dual-gene pathogen detection, expanding the potential of Cas protein orthogonality for multiplex diagnostics."
+    },
+    "summary": "Introducing a novel single-tube detection platform for simultaneous identification of methicillin-resistant Staphylococcus aureus (MRSA), this method simplifies existing protocols by utilizing the unique trans-cleavage properties of Cas9 and Cas12a. The assay demonstrates exceptional sensitivity and specificity, enabling detection at attogram levels and validating its effectiveness in an in vivo model. This innovation not only streamlines pathogen detection but also holds promise for advancing multiplex diagnostics in clinical settings."
   },
   {
     "journal_name": "RCS Analyst",
