@@ -6,6 +6,21 @@ __pycache__/
 # C extensions
 *.so
 
+#large files
+data/publications_all.json
+data/researchers.json
+data/publications_display_old.json
+
+# Files not needed for app_publications.py
+data/publications_v1.json
+data/filtered_publications.json
+
+stat.py
+llm_tools.py
+db_base.py
+app.py
+
+
 # Distribution / packaging
 .Python
 build/
