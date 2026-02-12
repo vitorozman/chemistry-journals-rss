@@ -11,7 +11,30 @@ def create_pretty_print(publication):
     """
     crossref = publication.get("crossref", {})
     authors = crossref.get("authors", [])
-    year = crossref.get("published_date", [])[0] if crossref.get("published_date") else publication.get("published_date", "n.d.")[:4]
+    
+    # Format publication date as "3 Jan 2026"
+    published_date = crossref.get("published_date", [])
+    if published_date and len(published_date) >= 3:
+        year, month, day = published_date[0], published_date[1], published_date[2]
+        month_names = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                      "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+        formatted_date = f"{day} {month_names[month-1]} {year}"
+    elif published_date and len(published_date) >= 1:
+        formatted_date = str(published_date[0])  # Just year
+    else:
+        # Fallback to string date
+        fallback_date = publication.get("published_date", "n.d.")
+        if fallback_date and fallback_date != "n.d.":
+            try:
+                from datetime import datetime
+                dt = datetime.strptime(fallback_date[:10], '%Y-%m-%d')
+                month_names = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                              "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+                formatted_date = f"{dt.day} {month_names[dt.month-1]} {dt.year}"
+            except:
+                formatted_date = "n.d."
+        else:
+            formatted_date = "n.d."
     
     # Format authors
     formatted_authors = []
@@ -41,7 +64,7 @@ def create_pretty_print(publication):
     doi = publication.get("doi")
     link = publication.get("link", f"https://doi.org/{doi}")
     
-    citation = f"{authors_str} ({year}). *{formatted_title}*. {journal}. [Link]({link})"
+    citation = f"{authors_str} ({formatted_date}). {formatted_title}. *{journal}*. [DOI]({link})"
     
     # Summary in smaller font (display only if present and not empty)
     summary = publication.get("summary", "")
@@ -94,7 +117,7 @@ def parse_and_sort_publications(publications):
     return sorted_pubs
 
 # Main app
-st.set_page_config(page_title="What's New in Chemistry", page_icon="🧪", layout="wide")
+st.set_page_config(page_title="What's New in Chemistry", page_icon="🧪", layout="centered")
 
 # Add custom CSS for margins and compact layout
 st.markdown("""
@@ -138,7 +161,7 @@ sorted_publications = parse_and_sort_publications(publications)
 
 # Display statistics
 total_pubs = len(sorted_publications)
-st.markdown(f"**Found {total_pubs} publications with at least one author form Texas**")
+st.markdown(f"**Authors from Texas authored {total_pubs} publications in the top-rated chemistry journals.**")
 st.markdown("---")
 
 # Display all publications
