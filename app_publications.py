@@ -1,6 +1,7 @@
 import streamlit as st
 import json
 from datetime import datetime, timedelta
+from journals import Journal
 
 
 
@@ -161,8 +162,14 @@ sorted_publications = parse_and_sort_publications(publications)
 
 # Display statistics
 total_pubs = len(sorted_publications)
-st.markdown(f"**Authors from Texas authored {total_pubs} publications in the top-rated chemistry journals.**")
+journals_list = list(Journal.JOURNAL_FEEDS.keys())
+
+# Create a properly formatted list for the help tooltip
+journals_help_text = f"Journals monitored ({len(journals_list)}):\n\n" + "\n\n".join([f"• {journal}" for journal in sorted(journals_list)])
+
+st.markdown(f"**Authors from Texas authored {total_pubs} publications in the top-rated chemistry journals.**", help=journals_help_text)
 st.markdown("---")
+
 
 # Display all publications
 for i, pub in enumerate(sorted_publications, 1):
