@@ -54,7 +54,7 @@ def create_pretty_print(publication):
 def load_publications():
     """Load publications from JSON file."""
     try:
-        with open("data/publications_display_fixed.json", "r") as f:
+        with open("data/publications_display.json", "r") as f:
             return json.load(f)
     except FileNotFoundError:
         st.error("Publications with summaries data file not found!")
