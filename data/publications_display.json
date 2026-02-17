@@ -1895,7 +1895,7 @@
     "summary": "Introducing a novel single-tube detection platform for simultaneous identification of methicillin-resistant Staphylococcus aureus (MRSA), this method simplifies existing protocols by utilizing the unique trans-cleavage properties of Cas9 and Cas12a. The assay demonstrates exceptional sensitivity and specificity, enabling detection at attogram levels and validating its effectiveness in an in vivo model. This innovation not only streamlines pathogen detection but also holds promise for advancing multiplex diagnostics in clinical settings."
   },
   {
-    "journal_name": "RCS Analyst",
+    "journal_name": "RSC Analyst",
     "doi": "10.1039/D5AN01232E",
     "title": "Improved NMR-based diffusion measurements for inorganic ions",
     "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/AN/D5AN01232E",
@@ -1953,7 +1953,7 @@
     "summary": "A novel NMR method significantly enhances the measurement of diffusion for inorganic ions, addressing the limitations of the most common existing techniques. By utilizing strong field gradients exceeding 1000 G/cm, this approach offers improved accuracy and reliability in diffusion measurements. This advancement holds practical significance for scientists working with inorganic materials, enabling more precise characterization and analysis in various applications."
   },
   {
-    "journal_name": "RCS Analytical Methods",
+    "journal_name": "RSC Analytical Methods",
     "doi": "10.1039/D5AY01973G",
     "title": "Identification of dyes on fabric exposed to lake and ocean water using near-infrared excitation Raman spectroscopy",
     "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/AY/D5AY01973G",
@@ -2010,7 +2010,7 @@
     "summary": "A new approach utilizing near-infrared excitation Raman spectroscopy allows for the effective identification of dyes on fabrics exposed to lake and ocean water. This advancement enhances forensic analysis by revealing critical links between suspects and crime scenes through dye analysis. The method's ability to analyze environmental effects on dye properties is particularly significant for improving evidence recovery and interpretation in forensic investigations."
   },
   {
-    "journal_name": "RCS Chemical Science",
+    "journal_name": "RSC Chemical Science",
     "doi": "10.1039/D5SC09994C",
     "title": "Photochemical cyclization of \u03b1-amino esters to access 3-azetidinones",
     "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/SC/D5SC09994C",
@@ -2073,7 +2073,7 @@
     "summary": "A novel light-driven method has been introduced for the cyclization of \u03b1-amino esters, yielding 3-azetidinones. This innovative approach utilizes readily available starting materials, streamlining the synthesis of this important class of compounds. The significance of this research lies in its potential to enhance the efficiency of producing valuable medicinal structures in organic chemistry."
   },
   {
-    "journal_name": "RCS CrystEngComm",
+    "journal_name": "RSC CrystEngComm",
     "doi": "10.1039/D5CE01058F",
     "title": "Examining the role of molecular and crystallographic symmetry in isomorphism: a series of centrosymmetric \u201cbridge-flipped\u201d trifluoromethyl-substituted bis-benzylideneanilines",
     "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/CE/D5CE01058F",
@@ -2121,7 +2121,7 @@
     "summary": "A novel isomorphous pair of trifluoromethyl-substituted bis-benzylideneanilines has been identified, highlighting the influence of molecular and crystallographic symmetry on isomorphism. This discovery demonstrates that bridge-flipped isomers can align with crystallographic inversion centers, which has implications for designing materials with specific crystallographic properties. Understanding these relationships could lead to advancements in the synthesis and application of similar molecular structures in various fields, such as materials science and pharmaceuticals."
   },
   {
-    "journal_name": "RCS Digital Discovery",
+    "journal_name": "RSC Digital Discovery",
     "doi": "10.1039/D5DD00150A",
     "title": "Efficient simulation of complex fluid phase diagrams with Bayesian optimization",
     "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/DD/D5DD00150A",
@@ -2232,7 +2232,7 @@
     "summary": "Bayesian optimization presents a groundbreaking method for efficiently simulating phase diagrams of complex fluids, drastically reducing the required resources. This innovative approach allows for quicker, cost-effective determination of key fluid characteristics, which is fundamental for various applications in materials science and engineering. The implications of this research could lead to accelerated discovery and optimization of new fluid formulations and processes."
   },
   {
-    "journal_name": "RCS Digital Discovery",
+    "journal_name": "RSC Digital Discovery",
     "doi": "10.1039/D5DD00361J",
     "title": "Leveraging domain knowledge for optimal initialization in Bayesian materials optimization",
     "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/DD/D5DD00361J",
@@ -2291,7 +2291,7 @@
     "summary": "Introducing a method that integrates domain knowledge into Bayesian optimization enhances the initialization process for material discovery. This innovative approach allows for a more strategic exploration of complex design spaces, significantly accelerating the identification of new materials. The practical implication is a more efficient path to material innovation, which is crucial for advancements in various scientific fields."
   },
   {
-    "journal_name": "RCS Digital Discovery",
+    "journal_name": "RSC Digital Discovery",
     "doi": "10.1039/D5DD00294J",
     "title": "Application-specific machine-learned interatomic potentials: exploring the trade-off between DFT convergence, MLIP expressivity, and computational cost",
     "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/DD/D5DD00294J",
@@ -2350,7 +2350,7 @@
     "summary": "A new framework for tuning machine-learned interatomic potentials (MLIPs) allows for a fine balance between DFT convergence, expressivity, and computational cost, tailored to specific applications. This innovative approach reveals a Pareto front, optimizing MLIP performance based on the accuracy needs of various computational scenarios. Such advancements can significantly reduce computational resources while still achieving desired precision, making simulations more efficient in material science and related fields."
   },
   {
-    "journal_name": "RCS Sustainable Energy & Fuels",
+    "journal_name": "RSC Sustainable Energy & Fuels",
     "doi": "10.1039/D5SE01171J",
     "title": "Asymmetric electrode configurations enhance operating power density and energy efficiency of an aqueous, electrode-decoupled titanium\u2013cerium redox flow battery",
     "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/SE/D5SE01171J",
@@ -2397,7 +2397,7 @@
     "summary": "Innovative asymmetric electrode configurations significantly improve the operating power density and energy efficiency of titanium\u2013cerium redox flow batteries. Achieving 70% energy efficiency over 80 hours and 100 cycles at a current density of 150 mA cm\u22122 marks a notable advancement in redox flow battery technology. This enhancement not only boosts performance but also paves the way for more sustainable energy storage solutions."
   },
   {
-    "journal_name": "RCS Soft Matter",
+    "journal_name": "RSC Soft Matter",
     "doi": "10.1039/D5SM00999E",
     "title": "Simulation of weak polyelectrolyte brushes: the effects of ionizable monomer fraction and monovalent salt",
     "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/SM/D5SM00999E",
