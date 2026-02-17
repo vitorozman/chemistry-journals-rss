@@ -3889,5 +3889,1241 @@
       "abstract": "<jats:p>An Fe-modified CoCr LDH with a hierarchical nanosheet morphology delivers high seawater OER performance by enhancing charge transfer and resisting chloride corrosion.</jats:p>"
     },
     "summary": "Fe-modified CoCr layered double hydroxides represent a novel approach to enhance the efficiency of the seawater oxygen evolution reaction. The unique hierarchical nanosheet structure significantly improves charge transfer and provides resistance to chloride corrosion, addressing key challenges in seawater electrolysis. This advancement has potential implications for sustainable energy production and the development of robust catalysts in marine environments."
+  },
+  {
+    "journal_name": "Journal of the American Chemical Society",
+    "doi": "10.1021/jacs.5c18105",
+    "title": "A Single-Phase Mixed Ion-Electron Conducting Metal\u2013Organic Framework",
+    "link": "https://pubs.acs.org/doi/10.1021/jacs.5c18105?af=R",
+    "published_date": "2026-02-04",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/jacs.5c18105",
+      "title": "A Single-Phase Mixed Ion-Electron Conducting Metal\u2013Organic Framework",
+      "published_date": [
+        2026,
+        1,
+        22
+      ],
+      "authors": [
+        {
+          "first_name": "Petru",
+          "last_name": "Apostol",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Xiaodong",
+          "last_name": "Lin",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Simon M.-M.",
+          "last_name": "Dubois",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Yan",
+          "last_name": "Zhang",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Robert",
+          "last_name": "Markowski",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Xiaolong",
+          "last_name": "Guo",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Jiande",
+          "last_name": "Wang",
+          "institution": [
+            "Department of Chemistry",
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "first_name": "Wenjie",
+          "last_name": "Shi",
+          "institution": [
+            "Institute for New Energy Materials & Low Carbon Technologies",
+            "Tianjin University of Technology"
+          ]
+        },
+        {
+          "first_name": "Laura",
+          "last_name": "Caputo",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Da",
+          "last_name": "Tie",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Viliam",
+          "last_name": "Frano",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Darsi",
+          "last_name": "Rambabu",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Vasudeva Rao",
+          "last_name": "Bakuru",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Koen",
+          "last_name": "Robeyns",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Mircea",
+          "last_name": "Dinc\u0103",
+          "institution": [
+            "Department of Chemistry",
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "first_name": "Pulickel M.",
+          "last_name": "Ajayan",
+          "institution": [
+            "Department of Materials Science and Nanoengineering, Rice University, 6100 Main Street, Houston 77005, Texas, United States"
+          ],
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Jean-Christophe",
+          "last_name": "Charlier",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain"
+          ]
+        },
+        {
+          "first_name": "Alexandru",
+          "last_name": "Vlad",
+          "institution": [
+            "Institute of Condensed Matter and Nanosciences",
+            "Universit\u00e9 Catholique de Louvain",
+            "WEL Research Institute, avenue Pasteur, 6, Wavre 1300, Belgium"
+          ]
+        }
+      ],
+      "abstract": "Mixed ionic-electronic conductors (MIECs) are highly sought after for electrochemical systems because they support concurrent charge and mass transport. Yet, structurally well-defined single-phase MIECs remain scarce, as most systems rely on physical mixtures of ionic and electronic conductors. Here, we introduce a cation-rich design strategy to realize solid-state mixed Li<sup>+</sup>-electronic conduction in a two-dimensional copper-catecholate metal-organic framework, Cu<sub>3</sub>(HOTAT)<sub>2</sub>, built from the 3-fold symmetric new ligand 2,3,7,8,12,13-hexahydroxytriazatruxene (HHTAT). Owing to the combined redox activity of Cu<sup>2+</sup>/Cu<sup>+</sup> and the HOTAT ligand, controlled fractional reduction generates a family of Li<sub><i>x</i></sub>Cu<sub>3</sub>(HOTAT)<sub>2</sub> (0 \u2264 <i>x</i> \u2264 7.50) phases with tunable transport properties, in good agreement with electronic-structure calculations. The Li-rich phase Li<sub>7.50</sub>Cu<sub>3</sub>(HOTAT)<sub>2</sub> exhibits intrinsic mixed conduction at room temperature, with an electronic conductivity of 2.8 \u00d7 10<sup>-3</sup> S cm<sup>-1</sup>, and solid-state Li<sup>+</sup> conductivity of 1.1 \u00d7 10<sup>-3</sup> S cm<sup>-1</sup>. As a proof of concept, Li<sub>7.50</sub>Cu<sub>3</sub>(HOTAT)<sub>2</sub> operates as a homogeneous cathode in all-solid-state Li batteries, delivering 100 mAh g<sup>-1</sup> after 100 cycles with \u223c99.8% Coulombic efficiency, indicative of highly reversible electrochemical behavior. These results establish cation-rich reduction of redox-active 2D MOFs as an efficient route to engineer solid-state mixed Li<sup>+</sup>-electronic conductors, opening a pathway toward dual-conducting porous materials for solid-state electrochemical technologies."
+    },
+    "summary": "A novel cation-rich design strategy has led to the development of a single-phase metal-organic framework, Cu3(HOTAT)2, that enables solid-state mixed lithium-ion and electronic conduction. The Li-rich phase of this framework demonstrates impressive intrinsic conductivity and high reversibility in all-solid-state lithium batteries, achieving nearly complete cycle efficiency. This innovative approach paves the way for advanced dual-conducting materials crucial for enhancing solid-state electrochemical applications."
+  },
+  {
+    "journal_name": "Journal of the American Chemical Society",
+    "doi": "10.1021/jacs.5c20841",
+    "title": "Resonant Enhancement of Photolysis through Plasmon-Vibrational Coupling",
+    "link": "https://pubs.acs.org/doi/10.1021/jacs.5c20841?af=R",
+    "published_date": "2026-02-04",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/jacs.5c20841",
+      "title": "Resonant Enhancement of Photolysis through Plasmon-Vibrational Coupling",
+      "published_date": [
+        2026,
+        1,
+        22
+      ],
+      "authors": [
+        {
+          "first_name": "Woo Je",
+          "last_name": "Chang",
+          "institution": [
+            "McKetta Department of Chemical Engineering",
+            "University of Texas at Austin"
+          ],
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Logan J.",
+          "last_name": "Carr",
+          "institution": [
+            "Department of Chemistry",
+            "University of Texas at Austin"
+          ],
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Sebastian",
+          "last_name": "Montillo Vega",
+          "institution": [
+            "Department of Chemistry",
+            "University of Rochester"
+          ]
+        },
+        {
+          "first_name": "Priyansh",
+          "last_name": "Vora",
+          "institution": [
+            "McKetta Department of Chemical Engineering",
+            "University of Texas at Austin"
+          ],
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Pengfei",
+          "last_name": "Huo",
+          "institution": [
+            "Department of Chemistry",
+            "University of Rochester"
+          ]
+        },
+        {
+          "first_name": "Delia J.",
+          "last_name": "Milliron",
+          "institution": [
+            "McKetta Department of Chemical Engineering",
+            "University of Texas at Austin",
+            "Department of Chemistry",
+            "University of Texas at Austin",
+            "Department of Chemical Engineering",
+            "University of Michigan"
+          ],
+          "texas_affiliation": true,
+          "db_researcher_id": 956
+        }
+      ],
+      "abstract": "The coupling of photonic modes and molecular vibrations is an emerging method for modifying the chemical reactivity of target molecules. However, since the photonic mode typically arises from a Fabry-P\u00e9rot cavity, it presents challenges for the systematic investigation of chemical reaction rates that require external stimuli due to the inherent closed nature of the cavity. Here, we use infrared-plasmonic colloidal nanocrystals (NCs) as building blocks in monolayer assemblies, which act as metasurfaces. We harness their strong local electric fields for coupling with molecular vibrations, allowing for control over the molecular reactivity through plasmon-vibrational coupling. After the assembly of the metasurface, we attached azidobenzoic acid to tin-doped indium oxide NCs, enabling the study of UV-driven photolysis. The photolysis rate varies when changing the frequency detuning between the azide asymmetric stretch and the collective plasmon resonance of the NC monolayer, which is controlled by the Sn doping concentration. We observe the greatest rate enhancement when the detuning approaches zero. We developed a theoretical model showing that the rate enhancement arises from vibrational excitation in the excited state of the molecules, assisted by the plasmon resonance of the NC assembly. We anticipate that our platform can serve as a scalable metasurface for controlling diverse chemical reactions and transport phenomena."
+    },
+    "summary": "Innovative use of infrared-plasmonic colloidal nanocrystals as metasurfaces allows for enhanced control over molecular reactivity through plasmon-vibrational coupling. The study reveals that the photolysis rate of azidobenzoic acid is significantly influenced by the frequency detuning between molecular vibrations and plasmon resonance, peaking when detuning is minimized. This advancement presents a scalable method for manipulating various chemical reactions and transport processes, promising applications in chemical engineering and materials science."
+  },
+  {
+    "journal_name": "Accounts of Chemical Research",
+    "doi": "10.1021/acs.accounts.5c00813",
+    "title": "Decoding Protein Glycosylation for Better Vaccine and Antibody Development",
+    "link": "https://pubs.acs.org/doi/10.1021/acs.accounts.5c00813?af=R",
+    "published_date": "2026-02-03",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acs.accounts.5c00813",
+      "title": "Decoding Protein Glycosylation for Better Vaccine and Antibody Development",
+      "published_date": [
+        2026,
+        1,
+        15
+      ],
+      "authors": [
+        {
+          "first_name": "Jennifer M.",
+          "last_name": "Lo",
+          "institution": [
+            "Department of Chemistry, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, California 92037, United States"
+          ]
+        },
+        {
+          "first_name": "Chi-Huey",
+          "last_name": "Wong",
+          "institution": [
+            "Department of Chemistry, The Scripps Research Institute, 10550 North Torrey Pines Road, La Jolla, California 92037, United States"
+          ],
+          "db_researcher_id": 13
+        }
+      ],
+      "abstract": "ConspectusGlycosylation is an important biological process for modulating the structure and function of proteins, cells, and many other biologics. Decoding protein glycosylation and glycan-receptor interactions will help us understand the role of post-translational glycosylation with molecular precision and provide new opportunities for developing better glycoprotein medicines to ameliorate diseases associated with aberrant glycosylation. Over the years, we have developed new tools and methods, notably the chemoenzymatic and programmable one-pot methods, for making and studying complex glycans and glycoproteins and investigating the impact of glycosylation on protein folding, viral infection, cancer progression, and immune responses. This Account highlights the advanced glycosylation methods developed in our laboratory to drive new discoveries in glycobiology and accelerate the translation of these discoveries into innovative development. Representative examples include practical and expedient synthesis of oligosaccharides and glycoproteins, development of glycan microarrays, low-sugar universal vaccines with broadly protective immune responses, cell-based production of monoclonal antibodies with humanized Fc-glycosylation optimized to improve efficacy, and common small-molecule blockades targeting multiple Siglec-mediated immune checkpoints. It is anticipated that advances in glycosylation methodology and the extensive data generated over the years, combined with AI-assisted prediction, will lead to a paradigm change in vaccine and antibody development as well as drug discoveries for human health."
+    },
+    "summary": "Novel techniques for decoding protein glycosylation have been developed, which could revolutionize glycoprotein medicine and vaccine production. These methods enable precise synthesis of glycans, optimizing immune responses and therapeutic efficacy, while also facilitating the creation of low-sugar universal vaccines. The integration of these advanced methodologies with AI prediction tools promises significant breakthroughs in combating diseases linked to glycosylation abnormalities."
+  },
+  {
+    "journal_name": "Advanced Materials",
+    "doi": "10.1002/adma.202514390",
+    "title": "Sub\u2010Melt Consolidation of Aerospace\u2010Grade Thermoplastic Composites for High\u2010Rate Processing",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202514390?af=R",
+    "published_date": "Sun, 01 Fe",
+    "crossref": {
+      "access": true,
+      "doi": "10.1002/adma.202514390",
+      "title": "Sub\u2010Melt Consolidation of Aerospace\u2010Grade Thermoplastic Composites for High\u2010Rate Processing",
+      "published_date": [
+        2025,
+        12,
+        14
+      ],
+      "authors": [
+        {
+          "first_name": "Joseph G.",
+          "last_name": "Kirchhoff",
+          "institution": [
+            "Walker Department of Mechanical Engineering University of Texas at Austin Austin TX 78712 USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Saeed",
+          "last_name": "Khaleghi",
+          "institution": [
+            "Department of Structural Engineering University of California San Diego La Jolla CA 92093 USA"
+          ],
+          "orcid": "0000-0003-4061-4915"
+        },
+        {
+          "first_name": "Greg",
+          "last_name": "Haugstad",
+          "institution": [
+            "Characterization Facility University of Minnesota Minneapolis MN 55455 USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Tyler B.",
+          "last_name": "Hudson",
+          "institution": [
+            "Advanced Materials and Processing Branch NASA Langley Research Center Hampton VA 23681 USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Mehran",
+          "last_name": "Tehrani",
+          "institution": [
+            "Program in Materials Science and Engineering University of California San Diego  La Jolla CA 92093 USA"
+          ],
+          "orcid": "0000-0002-6508-7093"
+        }
+      ],
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>The processing of thermoplastic composites is often limited by high energy demands and slow cycle times. Out\u2010of\u2010autoclave amorphous/crystalline thermoplastic materials for energy\u2010efficient aerospace\u2010grade laminates (OATMEAL) addresses these challenges through a unique prepreg architecture. OATMEAL consists of slow\u2010cooled carbon fiber\u2010reinforced semicrystalline polyetheretherketone (PEEK) tape sheathed in thin amorphous polyetherimide (PEI) layers. The PEI sheaths are miscible with PEEK and enable interfacial healing below the melting point of PEEK\u2014preserving pre\u2010existing crystallinity and reducing processing temperatures by 80\u00a0\u00b0C. The sheaths are thinned via high\u2010frequency laser ablation down to the PEEK\u2013PEI blending regions, thereby reducing residual stresses and promoting chemical resistance. Fast\u2010cooled vacuum\u2010bag\u2010only oven processing of OATMEAL laminates yields aerospace\u2010quality parts while enabling processing speeds more than five times faster and reducing energy use by roughly 75% compared with conventional methods. These results represent a significant advancement and a step toward truly high\u2010rate, large\u2010scale aerostructure manufacturing.</jats:p>"
+    },
+    "summary": "A groundbreaking prepreg architecture, OATMEAL, allows for the processing of aerospace-grade thermoplastic composites at significantly reduced temperatures and enhanced speeds. By utilizing thin, miscible polyetherimide sheaths around semicrystalline polyetheretherketone, this method achieves more than five times faster processing and cuts energy use by approximately 75%. This innovation addresses long-standing challenges in thermoplastic composite manufacturing, paving the way for efficient and high-rate production of aerostructures."
+  },
+  {
+    "journal_name": "ACS Catalysis",
+    "doi": "10.1021/acscatal.5c08472",
+    "title": "Ionomer Charge Density Modulates Interfacial Water and Reaction Intermediates for CO2 Electrolysis to C2 Products",
+    "link": "https://pubs.acs.org/doi/10.1021/acscatal.5c08472?af=R",
+    "published_date": "2026-02-06",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acscatal.5c08472",
+      "title": "Ionomer Charge Density Modulates Interfacial Water and Reaction Intermediates for CO\n                    <sub>2</sub>\n                    Electrolysis to C\n                    <sub>2</sub>\n                    Products",
+      "published_date": [
+        2026,
+        1,
+        23
+      ],
+      "authors": [
+        {
+          "first_name": "Young In",
+          "last_name": "Song",
+          "institution": [
+            "Clean Energy Research Center",
+            "Korea Institute of Science and Technology (KIST)",
+            "School of Chemical Engineering",
+            "Sungkyunkwan University (SKKU)"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Shedrack G.",
+          "last_name": "Akpe",
+          "institution": [
+            "Department of Chemistry & Biochemistry",
+            "Baylor University"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Jihyun",
+          "last_name": "Park",
+          "institution": [
+            "Clean Energy Research Center",
+            "Korea Institute of Science and Technology (KIST)",
+            "Department of Chemical and Biological Engineering",
+            "Korea University"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Dogyeong",
+          "last_name": "Kim",
+          "institution": [
+            "Clean Energy Research Center",
+            "Korea Institute of Science and Technology (KIST)",
+            "Department of Chemical and Biological Engineering",
+            "Korea University"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Woong Hee",
+          "last_name": "Lee",
+          "institution": [
+            "Clean Energy Research Center",
+            "Korea Institute of Science and Technology (KIST)",
+            "Division of Energy & Environment Technology, KIST School",
+            "University of Science and Technology"
+          ],
+          "orcid": "0000-0002-5779-3246"
+        },
+        {
+          "first_name": "Jung Kyu",
+          "last_name": "Kim",
+          "institution": [
+            "School of Chemical Engineering",
+            "Sungkyunkwan University (SKKU)"
+          ],
+          "orcid": "0000-0002-8218-0062"
+        },
+        {
+          "first_name": "Hyo Sang",
+          "last_name": "Jeon",
+          "institution": [
+            "Sustainable Energy Research Division",
+            "Korea Institute of Science and Technology (KIST)"
+          ],
+          "orcid": "0000-0003-3486-0589"
+        },
+        {
+          "first_name": "Bohak",
+          "last_name": "Yoon",
+          "institution": [
+            "Department of Chemistry & Biochemistry",
+            "Baylor University",
+            "Graduate School of Green Growth and Sustainability",
+            "Korea Advanced Institute of Science and Technology (KAIST)"
+          ],
+          "orcid": "0000-0003-1769-6422",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Jai Hyun",
+          "last_name": "Koh",
+          "institution": [
+            "Clean Energy Research Center",
+            "Korea Institute of Science and Technology (KIST)",
+            "Division of Energy & Environment Technology, KIST School",
+            "University of Science and Technology"
+          ],
+          "orcid": "0000-0003-2589-8032"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "journal_name": "Inorganic Chemistry",
+    "doi": "10.1021/acs.inorgchem.5c04921",
+    "title": "A-Site Solid Solution Effects on Electrical Resistivity, Oxidation Resistance, and Hardness of MAX Phases V2(As1\u2013xPx)C and V2(As1\u2013xGex)C",
+    "link": "https://pubs.acs.org/doi/10.1021/acs.inorgchem.5c04921?af=R",
+    "published_date": "2026-02-16",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acs.inorgchem.5c04921",
+      "title": "<i>A</i>\n                    -Site Solid Solution Effects on Electrical Resistivity, Oxidation Resistance, and Hardness of MAX Phases V\n                    <sub>2</sub>\n                    (As\n                    <sub>\n                      1\u2013\n                      <i>x</i>\n                    </sub>\n                    P\n                    <sub>\n                      <i>x</i>\n                    </sub>\n                    )C and V\n                    <sub>2</sub>\n                    (As\n                    <sub>\n                      1\u2013\n                      <i>x</i>\n                    </sub>\n                    Ge\n                    <sub>\n                      <i>x</i>\n                    </sub>\n                    )C",
+      "published_date": [
+        2026,
+        1,
+        31
+      ],
+      "authors": [
+        {
+          "first_name": "Arya",
+          "last_name": "Loloee",
+          "institution": [
+            "School of Molecular Science",
+            "Arizona State University"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Manuel",
+          "last_name": "Scharrer",
+          "institution": [
+            "School of Molecular Science",
+            "Arizona State University",
+            "Navrotsky Eyring Center for Materials of the Universe",
+            "Arizona State University"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Tullio S.",
+          "last_name": "Geraci",
+          "institution": [
+            "School of Molecular Science",
+            "Arizona State University",
+            "Navrotsky Eyring Center for Materials of the Universe",
+            "Arizona State University"
+          ],
+          "orcid": "0009-0003-2289-2222"
+        },
+        {
+          "first_name": "Hui-Fei",
+          "last_name": "Zhai",
+          "institution": [
+            "School of Molecular Science",
+            "Arizona State University"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Matt S.",
+          "last_name": "Flores",
+          "institution": [
+            "Department of Chemistry",
+            "University of Houston"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Prajna",
+          "last_name": "Bhatt",
+          "institution": [
+            "Department of Chemistry",
+            "University College London"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Aysha A.",
+          "last_name": "Riaz",
+          "institution": [
+            "Department of Chemistry",
+            "University College London"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Pardeep K.",
+          "last_name": "Thakur",
+          "institution": [
+            "Diamond Light Source, Harwell Science and Innovation Campus"
+          ],
+          "orcid": "0000-0002-9599-0531"
+        },
+        {
+          "first_name": "Tien-Lin",
+          "last_name": "Lee",
+          "institution": [
+            "Diamond Light Source, Harwell Science and Innovation Campus"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Anna",
+          "last_name": "Regoutz",
+          "institution": [
+            "Department of Chemistry",
+            "University College London",
+            "Department of Chemistry",
+            "University of Oxford"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Jakoah",
+          "last_name": "Brgoch",
+          "institution": [
+            "Department of Chemistry",
+            "University of Houston",
+            "Texas Center for Superconductivity",
+            "University of Houston"
+          ],
+          "orcid": "0000-0002-1406-1352",
+          "texas_affiliation": true,
+          "db_researcher_id": 23
+        },
+        {
+          "first_name": "Jason F.",
+          "last_name": "Khoury",
+          "institution": [
+            "School of Molecular Science",
+            "Arizona State University"
+          ],
+          "orcid": "0000-0003-4769-6730"
+        },
+        {
+          "first_name": "Alexandra",
+          "last_name": "Navrotsky",
+          "institution": [
+            "School of Molecular Science",
+            "Arizona State University",
+            "Navrotsky Eyring Center for Materials of the Universe",
+            "Arizona State University",
+            "Ira A. Fulton School for Engineering of Matter, Transport, and Energy"
+          ],
+          "orcid": "0000-0002-3260-0364"
+        },
+        {
+          "first_name": "Christina S.",
+          "last_name": "Birkel",
+          "institution": [
+            "School of Molecular Science",
+            "Arizona State University",
+            "Department of Chemistry and Biochemistry",
+            "Technische Universit\u00e4t Darmstadt"
+          ],
+          "orcid": "0000-0001-8979-5214"
+        }
+      ],
+      "abstract": "MAX phases are a class of compounds known for having both metallic and ceramic properties, such as good electrical conductivity, oxidation resistance, and high hardness. The bulk of the research on their properties focuses on those with titanium at the <i>M</i>-site and metals from groups 13 to 15, e.g., aluminum, at the <i>A</i>-site. Here, we expand the properties repertoire with new arsenic-containing <i>A</i>-site solid solutions, V<sub>2</sub>(As<sub>1-<i>x</i></sub>P<sub><i>x</i></sub>)C and V<sub>2</sub>(As<sub>1-<i>x</i></sub>Ge<sub><i>x</i></sub>)C. The structure and elemental composition of the solid solutions were resolved with powder X-ray diffraction, scanning electron microscopy with energy-dispersive X-ray spectroscopy, and hard X-ray photoelectron spectroscopy. The electrical resistivity measurements show that both full series are metallic with the parent phases being the most conductive. Thermal analyses show V<sub>2</sub>GeC is the most oxidation resistant and V<sub>2</sub>AsC is the least, while substitutions decrease thermal stability, as oxidation resistance of the intermediate compositions shifts toward that of V<sub>2</sub>AsC. The V<sub>2</sub>(As<sub>1-<i>x</i></sub>Ge<sub><i>x</i></sub>)C series shows little variation in hardness across compositions, while the incorporation of phosphorus noticeably increases hardness."
+    },
+    "summary": "Introducing arsenic-based solid solutions in the MAX phase compounds V2(As1\u2013xPx)C and V2(As1\u2013xGex)C marks a significant advancement in tailoring electrical and mechanical properties of this material class. The study reveals that while the parent phases exhibit the best conductivity, phosphorus incorporation notably enhances hardness, and varying gallium content influences oxidation resistance and thermal stability. These findings present new pathways for material optimization in applications requiring a balance of conductivity and durability."
+  },
+  {
+    "journal_name": "RSC Advances",
+    "doi": "10.1039/D5RA09716A",
+    "title": "Tetrad or triad? insights from a versatile Fe(II) structural and functional model of the 3-histidine 1-carboxylate tetrad in C\u2013C bond cleaving dioxygenase enzymes",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/RA/D5RA09716A",
+    "published_date": "2026-02-13",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5RA09716A",
+      "title": "Tetrad or triad? insights from a versatile Fe(\n                    <scp>ii</scp>\n                    ) structural and functional model of the 3-histidine 1-carboxylate tetrad in C\u2013C bond cleaving dioxygenase enzymes",
+      "published_date": [
+        2026,
+        2,
+        13
+      ],
+      "authors": [
+        {
+          "first_name": "Adam",
+          "last_name": "Fadul",
+          "institution": [
+            "Department of Chemistry, American University, 4400 Massachusetts Ave NW, Washington, DC, 20016, USA"
+          ],
+          "orcid": "0009-0001-2946-3821"
+        },
+        {
+          "first_name": "Thomas",
+          "last_name": "Cundari",
+          "institution": [
+            "Department of Chemistry, University of North Texas, 1155 Union Cir, Denton, Texas 76203, USA"
+          ],
+          "orcid": "0000-0003-1822-6473",
+          "texas_affiliation": true,
+          "db_researcher_id": 135
+        },
+        {
+          "first_name": "Jeffery",
+          "last_name": "Bertke",
+          "institution": [
+            "Department of Chemistry, Georgetown University, 3700 O St NW, Washington, DC, 20057, USA"
+          ],
+          "orcid": "0000-0002-3419-5163"
+        },
+        {
+          "first_name": "Santiago A.",
+          "last_name": "Toledo",
+          "institution": [
+            "Department of Chemistry, American University, 4400 Massachusetts Ave NW, Washington, DC, 20016, USA"
+          ],
+          "orcid": "0000-0002-5096-3396"
+        }
+      ],
+      "abstract": "<jats:p>                     A functional model for the 3-His-1-carboxylate tetrad in dioxygenases. The Fe(                     <jats:sc>ii</jats:sc>                     ) compound displays versatile oxidative C\u2013C bond cleavage                     <jats:italic>via</jats:italic>                     metal-mediated O                     <jats:sub>2</jats:sub>                     activation.                   </jats:p>"
+    },
+    "summary": "A novel Fe(II) structural and functional model reveals how the 3-histidine 1-carboxylate tetrad operates in dioxygenase enzymes. This study demonstrates that the compound effectively facilitates oxidative C\u2013C bond cleavage through metal-mediated O2 activation. Understanding this mechanism can significantly enhance the design of bio-inspired catalysts for synthetic applications."
+  },
+  {
+    "journal_name": "RSC Journal of Materials Chemistry C",
+    "doi": "10.1039/D5TC03892H",
+    "title": "Influence of aromatic \u03c0-extension on phenanthro[9,10-d]imidazole-based donor\u2013acceptor systems for non-volatile resistive WORM memory device applications",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/TC/D5TC03892H",
+    "published_date": "2026-02-02",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5TC03892H",
+      "title": "Influence of aromatic \u03c0-extension on phenanthro[9,10-\n                    <i>d</i>\n                    ]imidazole-based donor\u2013acceptor systems for non-volatile resistive\n                    <i>WORM</i>\n                    memory device applications",
+      "published_date": [
+        2026,
+        2,
+        2
+      ],
+      "authors": [
+        {
+          "first_name": "Ajay",
+          "last_name": "Namitha",
+          "institution": [
+            "Organic Electronics Division, Department of Chemistry, Central University of Tamil Nadu, Thiruvarur, 610 005, India"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Madanan",
+          "last_name": "Akshaya",
+          "institution": [
+            "Organic Electronics Division, Department of Chemistry, Central University of Tamil Nadu, Thiruvarur, 610 005, India"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Predhanekar Mohamed",
+          "last_name": "Imran",
+          "institution": [
+            "Department of Chemistry, Islamiah College, Vaniyambadi, 635 752, India"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Nattamai. S. P.",
+          "last_name": "Bhuvanesh",
+          "institution": [
+            "Department of Chemistry, Texas A &M University, TX77842, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Samuthira",
+          "last_name": "Nagarajan",
+          "institution": [
+            "Organic Electronics Division, Department of Chemistry, Central University of Tamil Nadu, Thiruvarur, 610 005, India"
+          ],
+          "orcid": "0000-0001-6959-7747"
+        }
+      ],
+      "abstract": "<jats:p>                     This study explores the influence of aromatic \u03c0-extension on the resistive memory performance of phenathroimidazole-based D\u2013A compounds, with anthracene derivative showing superior performance (ON/OFF current ratio \u223c10                     <jats:sup>6</jats:sup>                     ).                   </jats:p>"
+    },
+    "summary": "Introducing aromatic \u03c0-extension significantly enhances the resistive memory performance of phenanthroimidazole-based donor\u2013acceptor compounds, particularly with an anthracene derivative achieving an impressive ON/OFF current ratio of around 10^6. These findings indicate that molecular design optimization can lead to substantial improvements in non-volatile resistive memory devices. This advancement matters as it opens new pathways for developing more efficient and reliable memory technologies in the realm of electronics."
+  },
+  {
+    "journal_name": "RSC Journal of Materials Chemistry C",
+    "doi": "10.1039/D5TC03829D",
+    "title": "Noncentrosymmetric hybrid gallium halides built from non-polar inorganic units",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/TC/D5TC03829D",
+    "published_date": "2026-02-05",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5TC03829D",
+      "title": "Noncentrosymmetric hybrid gallium halides built from non-polar inorganic units",
+      "published_date": [
+        2026,
+        2,
+        5
+      ],
+      "authors": [
+        {
+          "first_name": "Sergei A.",
+          "last_name": "Novikov",
+          "institution": [
+            "Department of Chemistry, University of Georgia, Athens, Georgia, 30602, USA"
+          ],
+          "orcid": "0000-0003-2007-3162"
+        },
+        {
+          "first_name": "Eric A.",
+          "last_name": "Gabilondo",
+          "institution": [
+            "Department of Chemistry, University of Houston, Houston, Texas, 77204, USA"
+          ],
+          "orcid": "0000-0001-5509-273X",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Aleksandra D.",
+          "last_name": "Valueva",
+          "institution": [
+            "Department of Chemistry, University of Georgia, Athens, Georgia, 30602, USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Jason",
+          "last_name": "Locklin",
+          "institution": [
+            "Department of Chemistry, University of Georgia, Athens, Georgia, 30602, USA",
+            "New Materials Institute, University of Georgia, Athens, Georgia, 30602, USA"
+          ],
+          "orcid": "0000-0001-9272-2403"
+        },
+        {
+          "first_name": "Vladislav V.",
+          "last_name": "Klepov",
+          "institution": [
+            "Department of Chemistry, University of Georgia, Athens, Georgia, 30602, USA"
+          ],
+          "orcid": "0000-0002-2039-2457"
+        }
+      ],
+      "abstract": "<jats:p>Predisposition of hybrid gallium halides to crystallize in acentric space groups makes them prospective NLO materials.</jats:p>"
+    },
+    "summary": "Hybrid gallium halides display unique properties due to their predisposition to crystallize in noncentrosymmetric structures, enabling their potential as nonlinear optical (NLO) materials. This novel approach leverages non-polar inorganic units to enhance the performance of these materials in various optical applications. The findings suggest significant advancements in the development of efficient NLO devices, paving the way for new technological innovations."
+  },
+  {
+    "journal_name": "RSC EES Solar",
+    "doi": "10.1039/D5EL00203F",
+    "title": "Porphyrin\u2013thieno[3,2-b]thiophene hole-transport materials enabling the production of long-lived radical ion pairs and high-performance perovskite solar cells",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EL/D5EL00203F",
+    "published_date": "2026-01-29",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5EL00203F",
+      "title": "Porphyrin\u2013thieno[3,2-\n                    <i>b</i>\n                    ]thiophene hole-transport materials enabling the production of long-lived radical ion pairs and high-performance perovskite solar cells",
+      "published_date": [
+        2026,
+        1,
+        29
+      ],
+      "authors": [
+        {
+          "first_name": "Ram R.",
+          "last_name": "Kaswan",
+          "institution": [
+            "Department of Chemistry, University of North Texas, Denton, Texas 76203-5017, USA"
+          ],
+          "orcid": "0009-0003-5203-0527",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Bommaramoni",
+          "last_name": "Yadagiri",
+          "institution": [
+            "Department of Polymers and Functional Materials, CSIR-Indian Institute of Chemical Technology, Uppal Road, Tarnaka, Hyderabad-500007, India",
+            "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad- 201002, India"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Jairam",
+          "last_name": "Tagare",
+          "institution": [
+            "Department of Polymers and Functional Materials, CSIR-Indian Institute of Chemical Technology, Uppal Road, Tarnaka, Hyderabad-500007, India"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Vinay",
+          "last_name": "Kumar",
+          "institution": [
+            "Department of Polymers and Functional Materials, CSIR-Indian Institute of Chemical Technology, Uppal Road, Tarnaka, Hyderabad-500007, India",
+            "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad- 201002, India"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Manne Naga",
+          "last_name": "Rajesh",
+          "institution": [
+            "Department of Polymers and Functional Materials, CSIR-Indian Institute of Chemical Technology, Uppal Road, Tarnaka, Hyderabad-500007, India",
+            "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad- 201002, India"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Paul A.",
+          "last_name": "Karr",
+          "institution": [
+            "Department of Physical Sciences and Mathematics, Wayne State College, 111 Main Street, Wayne, NE 68787, USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "L.",
+          "last_name": "Giribabu",
+          "institution": [
+            "Department of Polymers and Functional Materials, CSIR-Indian Institute of Chemical Technology, Uppal Road, Tarnaka, Hyderabad-500007, India",
+            "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad- 201002, India"
+          ],
+          "orcid": "0000-0001-5936-7729"
+        },
+        {
+          "first_name": "Surya Prakash",
+          "last_name": "Singh",
+          "institution": [
+            "Department of Polymers and Functional Materials, CSIR-Indian Institute of Chemical Technology, Uppal Road, Tarnaka, Hyderabad-500007, India",
+            "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad- 201002, India"
+          ],
+          "orcid": "0000-0003-4959-1510"
+        },
+        {
+          "first_name": "Francis",
+          "last_name": "D'Souza",
+          "institution": [
+            "Department of Chemistry, University of North Texas, Denton, Texas 76203-5017, USA"
+          ],
+          "orcid": "0000-0003-3815-8949",
+          "texas_affiliation": true,
+          "db_researcher_id": 136
+        }
+      ],
+      "abstract": "<jats:p>                     A newly synthesized broadband-light-capturing porphyrin-based system was investigated for the fabrication of high-performance perovskite solar cells and was assembled with ImC                     <jats:sub>60</jats:sub>                     to form a donor\u2013acceptor system for energy-harvesting applications.                   </jats:p>"
+    },
+    "summary": "A novel porphyrin-based system has been developed that enhances light capture, leading to improved performance in perovskite solar cells. This innovative donor-acceptor configuration achieves the production of long-lived radical ion pairs, which is crucial for effective energy harvesting. The findings hold significant potential for advancing the efficiency and durability of solar energy technologies."
+  },
+  {
+    "journal_name": "ACS Omega",
+    "doi": "10.1021/acsomega.5c05513",
+    "title": "Natural Gas-Derived Synthetic Fuels: A Comprehensive Review of Pathways for Carbon Offset and Sustainability",
+    "link": "https://pubs.acs.org/doi/10.1021/acsomega.5c05513?af=R",
+    "published_date": "2026-02-10",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acsomega.5c05513",
+      "title": "Natural Gas-Derived Synthetic Fuels: A Comprehensive Review of Pathways for Carbon Offset and Sustainability",
+      "published_date": [
+        2026,
+        1,
+        28
+      ],
+      "authors": [
+        {
+          "first_name": "Tala",
+          "last_name": "Katbeh",
+          "institution": [
+            "Chemical Engineering Program, Texas A&M University at Qatar, PO Box 23874, Doha, Qatar",
+            "Department of Multidisciplinary Engineering",
+            "Texas A&M University"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Tagwa",
+          "last_name": "Musa",
+          "institution": [
+            "Chemical Engineering Program, Texas A&M University at Qatar, PO Box 23874, Doha, Qatar"
+          ],
+          "orcid": "0000-0002-4364-9841",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Yasmin",
+          "last_name": "Abdelkarim",
+          "institution": [
+            "Chemical Engineering Program, Texas A&M University at Qatar, PO Box 23874, Doha, Qatar"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Hanif A.",
+          "last_name": "Choudhury",
+          "institution": [
+            "Chemical Engineering Program, Texas A&M University at Qatar, PO Box 23874, Doha, Qatar"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Mohamed S.",
+          "last_name": "Challiwala",
+          "institution": [
+            "Chemical Engineering Program, Texas A&M University at Qatar, PO Box 23874, Doha, Qatar"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Reza",
+          "last_name": "Tafreshi",
+          "institution": [
+            "Department of Multidisciplinary Engineering",
+            "Texas A&M University",
+            "Mechanical Engineering Program, Texas A&M University at Qatar, PO Box 23874, Doha, Qatar"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Nimir O.",
+          "last_name": "Elbashir",
+          "institution": [
+            "Chemical Engineering Program, Texas A&M University at Qatar, PO Box 23874, Doha, Qatar",
+            "Department of Multidisciplinary Engineering",
+            "Texas A&M University",
+            "College of Science and Engineering, Hamad Bin Khalifa University, PO Box 34110, Doha, Qatar"
+          ],
+          "orcid": "0000-0002-1696-3560",
+          "texas_affiliation": true
+        }
+      ],
+      "abstract": "The depletion of fossil fuels and the environmental impacts of conventional energy sources have accelerated the shift toward alternatives, with synthetic fuels\ue5f8particularly those derived from natural gas\ue5f8emerging as key solutions. gas-to-liquids (GTL) technology converts natural gas into ultraclean fuels and value-added chemicals, offering lower-emission alternatives to traditional crude oil-derived fuels. However, challenges, such as energy-intensive reforming stages, high capital costs, and the carbon footprint of natural gas feedstocks, hinder large-scale deployment. Additionally, the paraffinic composition and low aromatic content of GTL fuels present challenges in meeting engine performance and emissions targets without the use of tailored surrogate formulations. This review addresses these gaps by analyzing advancements in surrogate fuel development, with a focus on the limited kinetic data for high-molecular-weight iso-alkanes and cycloalkanes, which are critical for the accurate modeling of GTL-diesel and aviation fuels. Furthermore, the underexplored role of GTL-derived fuels in sustainable aviation fuel (SAF) strategies is evaluated, highlighting their potential as transitional low-carbon fuels. Novel insights include the integration of AI-driven computational methods and computer-aided molecular design (CAMD) to optimize fuel properties and process efficiencies. The review also synthesizes key technical, computational, and policy challenges and presents forward-looking research directions to guide the future development of GTL and SAF pathways. By bridging the gap between GTL chemistry, combustion modeling, and sustainability metrics, this Perspective outlines pathways for enhancing the role of GTL in the global energy transition."
+    },
+    "summary": "Innovative synthetic fuels derived from natural gas present a viable pathway for achieving lower carbon emissions compared to traditional fossil fuels. The paper highlights advancements in surrogate fuel development and the integration of AI-driven methods to optimize the performance of gas-to-liquids technology. By addressing the challenges surrounding GTL fuels and their role in sustainable aviation strategies, this work paves the way for their increased adoption in the global energy transition."
+  },
+  {
+    "journal_name": "ACS Omega",
+    "doi": "10.1021/acsomega.5c05870",
+    "title": "High-Frequency Sonication as an Unconventional Solution to Control Fluid Loss in Water-Based Drilling Muds",
+    "link": "https://pubs.acs.org/doi/10.1021/acsomega.5c05870?af=R",
+    "published_date": "2026-02-10",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acsomega.5c05870",
+      "title": "High-Frequency Sonication as an Unconventional Solution to Control Fluid Loss in Water-Based Drilling Muds",
+      "published_date": [
+        2025,
+        11,
+        13
+      ],
+      "authors": [
+        {
+          "first_name": "Anoop",
+          "last_name": "Kanjirakat",
+          "institution": [
+            "Department of Aeronautical and Automobile Engineering",
+            "Manipal Institute of Technology (MIT), Manipal Academy of Higher Education (MAHE)"
+          ],
+          "orcid": "0000-0002-8013-1769"
+        },
+        {
+          "first_name": "Arnel",
+          "last_name": "Carvero",
+          "institution": [
+            "Petroleum Engineering Program, Texas A&M University at Qatar, Education City, P.O. Box 23874, Doha, Qatar"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Jocin",
+          "last_name": "James Abraham",
+          "institution": [
+            "Petroleum Engineering Program, Texas A&M University at Qatar, Education City, P.O. Box 23874, Doha, Qatar"
+          ],
+          "orcid": "0000-0002-4760-3795",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Laith",
+          "last_name": "Abughaush",
+          "institution": [
+            "Petroleum Engineering Program, Texas A&M University at Qatar, Education City, P.O. Box 23874, Doha, Qatar"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Mahmood",
+          "last_name": "Amani",
+          "institution": [
+            "Petroleum Engineering Program, Texas A&M University at Qatar, Education City, P.O. Box 23874, Doha, Qatar"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        }
+      ],
+      "abstract": "Conventional methods of mitigating fluid loss in drilling operations rely heavily on chemical additives and nanoparticles, which may alter mud properties and introduce environmental and cost challenges. While the technique of ultrasonication is widely used in the oil and gas industry, especially for mixing these additives and nanoparticles into mud samples, the direct impact of ultrasonication of the base drilling mud sample alone on fluid loss behavior has been largely overlooked. This study investigates the effectiveness of ultrasonication in modifying the filtrate loss characteristics of water-based mud without any fluid loss additives. Drilling mud samples were subjected to ultrasonic treatment and compared with unsonicated samples through a series of high-pressure high-temperature (HPHT) filtration tests using ceramic disks with average pore throat sizes of 5-35 \u03bcm. The results demonstrate that sonicated mud significantly reduces filtrate loss, particularly in disks with smaller pore sizes, compared with unsonicated mud. Reductions in filtrate loss of approximately 16-45% were achieved with the 5, 10, and 20 \u03bcm pore size disks when sonicated mud was tested. These improvements were associated with the thinner and less permeable (0.2-0.4 mm) filter cakes compared to those of unsonicated mud, contributing to improved fluid retention. However, at a pore throat size of 35 \u03bcm, a significant increase in fluid loss was observed, suggesting that the benefits of ultrasonication are limited when the pore sizes exceed the effective range of the modified particle size distribution in the mud. Particle size distribution and scanning electron microscopy (SEM) data confirmed that ultrasonication fragmented and dispersed larger particles/aggregations, leading to a more stable suspension in the mud and denser mud cakes. The findings from this study demonstrate that ultrasonication of the base drilling mud alone is sufficient to improve its filtrate loss properties in most cases without the need for loss additives while being environmentally friendly and cost-effective. However, the study also implies the importance of adapting mud systems to formation properties, highlighting the critical role of the interaction between the particle size and pore dimensions in influencing fluid loss behavior and mud cake properties."
+    },
+    "summary": "Ultrasonic treatment of water-based drilling mud presents a groundbreaking method to reduce fluid loss without relying on traditional chemical additives. The study reveals that high-frequency sonication can decrease filtrate loss by 16-45% in specific pore size conditions, enhancing fluid retention while maintaining environmental benefits and cost-effectiveness. These findings underscore the importance of particle size distribution and pore dimension interactions, paving the way for more efficient drilling practices."
+  },
+  {
+    "journal_name": "ACS Omega",
+    "doi": "10.1021/acsomega.5c07766",
+    "title": "Advanced Leak Detection Methods for Belowground Natural Gas Pipeline Leaks: Evaluation under Diverse Environmental and Operational Conditions",
+    "link": "https://pubs.acs.org/doi/10.1021/acsomega.5c07766?af=R",
+    "published_date": "2026-02-10",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acsomega.5c07766",
+      "title": "Advanced Leak Detection Methods for Belowground Natural Gas Pipeline Leaks: Evaluation under Diverse Environmental and Operational Conditions",
+      "published_date": [
+        2026,
+        1,
+        26
+      ],
+      "authors": [
+        {
+          "first_name": "Venkata Rao",
+          "last_name": "Gundapuneni",
+          "institution": [
+            "Department of Civil and Environmental Engineering",
+            "Southern Methodist University"
+          ],
+          "orcid": "0000-0003-1302-889X",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Jui-Hsiang",
+          "last_name": "Lo",
+          "institution": [
+            "Department of Civil and Environmental Engineering",
+            "Colorado State University"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Daniel J.",
+          "last_name": "Zimmerle",
+          "institution": [
+            "The Energy Institute",
+            "Colorado State University"
+          ],
+          "orcid": "0000-0003-2832-048X"
+        },
+        {
+          "first_name": "Kathleen M",
+          "last_name": "Smits",
+          "institution": [
+            "Department of Civil and Environmental Engineering",
+            "Southern Methodist University",
+            "Maguire Energy Institute",
+            "Southern Methodist University"
+          ],
+          "orcid": "0000-0002-8319-0940",
+          "texas_affiliation": true
+        }
+      ],
+      "abstract": "Advanced leak detection (ALD) methods are increasingly employed to enhance the safety of natural gas (NG) infrastructure and reduce methane (CH<sub>4</sub>) emissions. While these technologies have proven effective for detecting aboveground leaks, their effectiveness in detecting belowground leaks remains limited due to the complex behavior of subsurface gas migration and the diffuse nature of surface and atmospheric plume presentation. This study presents a comprehensive experimental evaluation of ALD methods, including walking, driving, and simulated unmanned aerial vehicle (UAV<sub>sim</sub>)-based surveys, conducted under controlled conditions at leak rates of 0.5, 5, and 10 slpm (0.334, 3.34, and 6.67 g/min). Experiments were carried out over two years at the Methane Emissions Technology Evaluation Center (METEC) and the U.S. Air Force Academy's Field Engineering and Readiness Laboratory (FERL), encompassing a range of environmental and operational conditions, including gas composition, soil moisture and permeability, urban geometry, sloped terrain (5% grade), and snow-covered surfaces. The probability of detection (POD) was used as the primary performance metric to quantify detection success under each scenario. Results showed that POD varied widely from 0 to 100% for the same detection method depending on site conditions. Walking surveys consistently outperformed other methods, achieving POD values greater than 90% across most conditions and downwind distances, and demonstrating strong reliability even in snow, moist soils, and sloped terrain. Driving and UAV-based surveys exhibited high PODs (up to 100%) in dry, open environments but experienced reductions exceeding 80 pp (percentage points) under snow-covered surfaces and urban conditions. For instance, gas composition had a measurable effect, with Denver-Julesburg (DJ) and Permian Basin gases improving POD for walking surveys but reducing it for driving and UAV-based surveys relative to distribution-grade gas, as heavier hydrocarbons alter subsurface migration and emission patterns. Similarly, low soil permeability reduced POD by up to 36 pp for driving surveys, while moist soils led to reductions of up to 79 pp for UAV-based surveys. In urban environments, POD for UAV-based surveys declined by 88 pp at 15 m downwind and failed to detect any atmospheric CH<sub>4</sub> concentrations above the detection threshold under snow-covered conditions. These findings underscore the strong dependence of ALD performance on environmental and operational variables and provide critical insights for refining detection protocols and optimizing survey strategies in complex, real-world conditions."
+    },
+    "summary": "A novel evaluation of advanced leak detection methods reveals significant variations in performance under diverse environmental and operational conditions, highlighting the critical role of site-specific factors. The study identifies walking surveys as the most reliable method, consistently achieving detection probabilities exceeding 90%, while other methods like driving and UAV surveys suffered substantial declines in effectiveness, particularly in challenging terrains and urban environments. These insights are pivotal for improving natural gas leak detection protocols, enhancing infrastructure safety, and reducing methane emissions in real-world scenarios."
+  },
+  {
+    "journal_name": "ACS Omega",
+    "doi": "10.1021/acsomega.5c08128",
+    "title": "Exploring Approaches for Accelerated Mass Spectrometric Detection of Fluorochemicals from Aqueous Solutions Using Indirect, Adsorbent-Facilitated Desorption Ionization",
+    "link": "https://pubs.acs.org/doi/10.1021/acsomega.5c08128?af=R",
+    "published_date": "2026-02-10",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acsomega.5c08128",
+      "title": "Exploring Approaches for Accelerated Mass Spectrometric Detection of Fluorochemicals from Aqueous Solutions Using Indirect, Adsorbent-Facilitated Desorption Ionization",
+      "published_date": [
+        2026,
+        1,
+        23
+      ],
+      "authors": [
+        {
+          "first_name": "Nathan R.",
+          "last_name": "Bays",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": "0000-0002-0992-6155"
+        },
+        {
+          "first_name": "Samantha M.",
+          "last_name": "Kruse",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": "0000-0002-8372-1801"
+        },
+        {
+          "first_name": "Mohammad",
+          "last_name": "Shohel",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": "0000-0003-2736-2389"
+        },
+        {
+          "first_name": "Jessica A.",
+          "last_name": "LaFond",
+          "institution": [
+            "Texas Tech University",
+            "Department of Civil, Environmental, and Construction Engineering"
+          ],
+          "orcid": "0009-0006-1725-018X",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "David",
+          "last_name": "Schafer",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Brynal A.",
+          "last_name": "Benally",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Trinity M.",
+          "last_name": "Griffus",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": "0009-0009-6226-534X"
+        },
+        {
+          "first_name": "Jessica",
+          "last_name": "Rom\u00e1n-Kustas",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": "0000-0003-1879-0234"
+        },
+        {
+          "first_name": "Jessica N.",
+          "last_name": "Kruichak",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": "0009-0009-7496-4113"
+        },
+        {
+          "first_name": "Mark J.",
+          "last_name": "Rigali",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Andrew W.",
+          "last_name": "Knight",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Ryan D.",
+          "last_name": "Davis",
+          "institution": [
+            "Sandia National Laboratories"
+          ],
+          "orcid": "0000-0002-4434-1320"
+        }
+      ],
+      "abstract": "There is a growing need for rapid, low-cost analytical tools to screen water supplies for persistent contaminants. Due to their ubiquitous presence in the environment and their detrimental effects on human health, there is a public interest in widespread testing for perfluoroalkyl substances (PFAS). However, the most common methods for PFAS analysis can be time-intensive, requiring a preconcentration step followed by liquid chromatography-mass spectrometry (LC-MS), and are cost-prohibitive for most members of the public. To address these challenges, this study explores a novel method for rapid analysis of aqueous analytes by concentrating analytes on solid adsorbents and detecting them using mass spectrometric analysis via desorption ionization directly from the adsorbent surface. We demonstrate this general approach of indirect solution analysis (ISA) with desorption electrospray ionization (ISA-DESI) and laser desorption ionization (ISA-LDI). Various adsorbent materials were screened, including commercial mesoporous carbons, alumina, and metal-organic frameworks (MOFs). Using ISA-DESI, we consistently detect concentrations as low as 5-100 parts per trillion (ppt) for perfluorooctanoic acid (PFOA) and 10-100 ppt for perfluoroundecanoic acid (PFUnDA). This approach enables rapid detection in under 5 min, making it suitable for applications requiring trace detection with fast response times. We further demonstrate the use of ISA-DESI on a range of environmentally relevant contaminants. Advantages of this indirect solution analysis approach include simplified sample preparation, accelerated analysis, and low cost with readily available materials, making it a promising tool to accelerate mass spectrometric PFAS detection for identifying contaminated sites, performing laboratory studies, and monitoring industrial waste streams."
+    },
+    "summary": "A novel method for rapid mass spectrometric detection of perfluoroalkyl substances (PFAS) has been developed using indirect solution analysis via desorption ionization from adsorbent materials. This approach allows for the detection of PFAS at concentrations as low as 5-100 parts per trillion in under 5 minutes, significantly speeding up the analysis process compared to traditional methods. The innovation not only simplifies sample preparation but also offers a low-cost solution for monitoring water supplies, making it a critical advancement for public health and environmental safety."
   }
 ]

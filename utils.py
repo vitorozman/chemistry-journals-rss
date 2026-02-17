@@ -1,14 +1,28 @@
 
 import re
 
-def eq_name(name_1, name_2):
-    nl1 = re.split(r'[- ]', name_1.lower())
-    nl2 = re.split(r'[- ]', name_2.lower())
-    for n1i, n2i in zip(nl1, nl2):
-        k = min(len(n1i), len(n2i))
-        if n1i[:k] != n2i[:k]:
-            return False
-    return True 
+def eq_name(res_name, auth_name):
+    res_names = re.split(r'[-. ]', res_name.lower())
+    auth_names = re.split(r'[-. ]', auth_name.lower())
+    res_names = [n for n in res_names if n.strip()]
+    auth_names = [n for n in auth_names if n.strip()]
+    if len(auth_names)==0 or len(res_names)==0:
+        return False
+    for res in res_names.copy():
+        for j, auth in enumerate(auth_names):
+            k = min(len(res), len(auth))
+            if k > 1:
+                if res == auth:
+                    auth_names.pop(j)
+                    res_names.pop(res_names.index(res))
+                    break
+            elif res[:k] == auth[:k]:
+                auth_names.pop(j)
+                res_names.pop(res_names.index(res))
+                break
+    if len(res_names) == 0 or len(auth_names) == 0:
+        return True
+    return False
 
 
 

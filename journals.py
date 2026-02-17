@@ -13,6 +13,12 @@ class Journal:
     """Utility class for fetching scientific journal publications from various sources."""
     
     JOURNAL_FEEDS = {
+        "ACS Central Science": "https://pubs.acs.org/action/showFeed?jc=acscii&type=etoc&feed=rss",
+        "ACS Omega": "https://pubs.acs.org/action/showFeed?jc=acsodf&type=etoc&feed=rss",
+        "Nature": "https://www.nature.com/nature.rss",
+        "Science": "https://www.science.org/rss/news_current.xml",
+        "Chemical Science": "http://feeds.rsc.org/rss/sc",
+        "Chemical Communications": "http://feeds.rsc.org/rss/cc",
         "Nature Chemistry": "https://www.nature.com/nchem.rss",
         "Nature Reviews Chemistry": "https://www.nature.com/natrevchem.rss",
         "Chemical Reviews": "http://pubs.acs.org/action/showFeed?jc=chreay&type=etoc&feed=rss",
@@ -77,6 +83,9 @@ class Journal:
         "RSC EES Solar": "http://feeds.rsc.org/rss/el",
         "RSC EES Catalysis": "http://feeds.rsc.org/rss/ey",
         "RSC EES Batteries": "http://feeds.rsc.org/rss/eb"
+    }
+    NEW_PUBLISHED_FEEDS = {
+
     }
 
 
@@ -298,8 +307,8 @@ class Journal:
 
 
     @staticmethod
-    def fetch_publications_from_feeds(verbose=True):
-        dois_in_file = set(p.get('doi') for p in Journal.load_from_json("data/publications.json") or [])
+    def fetch_publications_from_feeds(file_path='data/publications.json', verbose=True):
+        dois_in_file = set(p.get('doi') for p in Journal.load_from_json(file_path) or [])
         for journal, feed_url in Journal.JOURNAL_FEEDS.items():
             publications = []
             if verbose:
@@ -320,7 +329,7 @@ class Journal:
                 publications.append(item)
             if verbose:
                 print(f"  Found {len(pubs_info)} publications, {len(publications)} new.")
-            Journal.add_publication_to_json(publications, "data/publications.json")
+            Journal.add_publication_to_json(publications, file_path)
         return publications
     
 
@@ -335,6 +344,16 @@ class Journal:
 
 
 # Journal.fetch_publications_from_feeds()
+
+# for journal, feed_url in Journal.NEW_PUBLISHED_FEEDS.items():
+#     print(f"Fetching DOIs from {journal}...")
+#     pubs_info = Journal.get_new_publications(journal, feed_url)
+#     print(f"  Found {len(pubs_info)} publications.")
+#     if len(pubs_info) == 0:
+#         print(f"    Check {journal}: link {feed_url}")
+#     else:
+#         print(f"  Sample publication: {pubs_info[0]['doi']} - {pubs_info[0]['title']} ({pubs_info[0]['published_date']}) - {pubs_info[0]['link']}")
+
 
 # for journal, feed_url in Journal.JOURNAL_FEEDS_EXTENDED.items():
 #     print(f"Fetching DOIs from {journal}...")

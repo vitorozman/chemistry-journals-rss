@@ -164,3 +164,28 @@ def fix_publications():
 # Publications.generate_summaries_for_publications()
 
 # print(len(Publications.INSTITUTIONS_TEXAS))
+
+
+def fix_abstracts():
+    from journals import Journal
+    from llm_tools import generate_summary
+    publications = Publications.load_from_json("data/publications_display_fixed.json") or []
+    for pub in publications:
+        abstract = pub.get('crossref', {}).get('abstract')
+        summary = pub.get('summary')
+        if not abstract:
+            print(pub.get('doi'))
+            p = Journal.get_publication_pubmed_from_doi(pub.get('doi'))
+            if p and p.get('abstract'):
+                print(p.get('abstract'))
+                abstract = p.get('abstract')
+                title = pub.get('title')
+                pub['crossref']['abstract'] = p.get('abstract')
+                pub['summary'] = generate_summary(title, abstract)  # Clear summary to regenerate with new abstract
+
+    save_path = "data/publications_display_cleaned.json"
+    with open(save_path, "w") as f:
+        json.dump(publications, f, indent=2)
+
+# fix_abstracts()
+
