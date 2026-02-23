@@ -5125,5 +5125,2121 @@
       "abstract": "There is a growing need for rapid, low-cost analytical tools to screen water supplies for persistent contaminants. Due to their ubiquitous presence in the environment and their detrimental effects on human health, there is a public interest in widespread testing for perfluoroalkyl substances (PFAS). However, the most common methods for PFAS analysis can be time-intensive, requiring a preconcentration step followed by liquid chromatography-mass spectrometry (LC-MS), and are cost-prohibitive for most members of the public. To address these challenges, this study explores a novel method for rapid analysis of aqueous analytes by concentrating analytes on solid adsorbents and detecting them using mass spectrometric analysis via desorption ionization directly from the adsorbent surface. We demonstrate this general approach of indirect solution analysis (ISA) with desorption electrospray ionization (ISA-DESI) and laser desorption ionization (ISA-LDI). Various adsorbent materials were screened, including commercial mesoporous carbons, alumina, and metal-organic frameworks (MOFs). Using ISA-DESI, we consistently detect concentrations as low as 5-100 parts per trillion (ppt) for perfluorooctanoic acid (PFOA) and 10-100 ppt for perfluoroundecanoic acid (PFUnDA). This approach enables rapid detection in under 5 min, making it suitable for applications requiring trace detection with fast response times. We further demonstrate the use of ISA-DESI on a range of environmentally relevant contaminants. Advantages of this indirect solution analysis approach include simplified sample preparation, accelerated analysis, and low cost with readily available materials, making it a promising tool to accelerate mass spectrometric PFAS detection for identifying contaminated sites, performing laboratory studies, and monitoring industrial waste streams."
     },
     "summary": "A novel method for rapid mass spectrometric detection of perfluoroalkyl substances (PFAS) has been developed using indirect solution analysis via desorption ionization from adsorbent materials. This approach allows for the detection of PFAS at concentrations as low as 5-100 parts per trillion in under 5 minutes, significantly speeding up the analysis process compared to traditional methods. The innovation not only simplifies sample preparation but also offers a low-cost solution for monitoring water supplies, making it a critical advancement for public health and environmental safety."
+  },
+  {
+    "journal_name": "ACS Omega",
+    "doi": "10.1021/acsomega.5c10891",
+    "title": "Oxidative Coupling of Alcohols and Amines Using Functionalized Cu(II) 2-Quinoxolinol Salen Catalysts",
+    "link": "https://pubs.acs.org/doi/10.1021/acsomega.5c10891?af=R",
+    "published_date": "2026-02-17",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acsomega.5c10891",
+      "title": "Oxidative Coupling of Alcohols and Amines Using Functionalized Cu(II) 2-Quinoxolinol Salen Catalysts",
+      "published_date": [
+        2026,
+        2,
+        3
+      ],
+      "authors": [
+        {
+          "first_name": "Xiaoyu",
+          "last_name": "Huo",
+          "institution": [
+            "Department of Chemistry and Biochemistry",
+            "Texas Tech University"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Raymond",
+          "last_name": "Hicks",
+          "institution": [
+            "Department of Chemistry and Biochemistry",
+            "Texas Tech University"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Ansh",
+          "last_name": "Chugh",
+          "institution": [
+            "Department of Chemistry and Biochemistry",
+            "Texas Tech University"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Biswash",
+          "last_name": "Guragain",
+          "institution": [
+            "Department of Chemistry and Biochemistry",
+            "Texas Tech University"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "John D.",
+          "last_name": "Gorden",
+          "institution": [
+            "Department of Chemistry and Biochemistry",
+            "Texas Tech University"
+          ],
+          "orcid": "0000-0002-0304-1954",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Anne E. V.",
+          "last_name": "Gorden",
+          "institution": [
+            "Department of Chemistry and Biochemistry",
+            "Texas Tech University"
+          ],
+          "orcid": "0000-0001-6623-9880",
+          "texas_affiliation": true
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "journal_name": "ACS Omega",
+    "doi": "10.1021/acsomega.5c11153",
+    "title": "Design of Highly Specific Antimicrobial Peptides Targeting the BamA Protein of Candidatus Liberibacter Asiaticus",
+    "link": "https://pubs.acs.org/doi/10.1021/acsomega.5c11153?af=R",
+    "published_date": "2026-02-17",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acsomega.5c11153",
+      "title": "Design of Highly Specific Antimicrobial Peptides Targeting the BamA Protein of\n                    <i>Candidatus</i>\n                    Liberibacter Asiaticus",
+      "published_date": [
+        2026,
+        2,
+        2
+      ],
+      "authors": [
+        {
+          "first_name": "Samavath",
+          "last_name": "Mallawarachchi",
+          "institution": [
+            "Department of Biological and Agricultural Engineering",
+            "Texas A&M University"
+          ],
+          "orcid": "0000-0002-8153-2388",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Sonia",
+          "last_name": "Irigoyen",
+          "institution": [
+            "Texas A&M AgriLife Research & Extension Center, Texas A&M University System, 2415 E. Highway 83, Weslaco, Texas 78596, United States"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Kranthi",
+          "last_name": "Mandadi",
+          "institution": [
+            "Texas A&M AgriLife Research & Extension Center, Texas A&M University System, 2415 E. Highway 83, Weslaco, Texas 78596, United States",
+            "Department of Plant Pathology and Microbiology",
+            "Texas A&M University",
+            "Institute for Advancing Health Through Agriculture",
+            "Texas A&M AgriLife"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "James",
+          "last_name": "Borneman",
+          "institution": [
+            "Department of Microbiology & Plant Pathology",
+            "University of California Riverside"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Sandun",
+          "last_name": "Fernando",
+          "institution": [
+            "Department of Biological and Agricultural Engineering",
+            "Texas A&M University"
+          ],
+          "orcid": "0000-0002-7692-2170",
+          "texas_affiliation": true
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "journal_name": "ACS Omega",
+    "doi": "10.1021/acsomega.5c12671",
+    "title": "Eugenol-Derived Bipyridine Ligand Scaffolds: Design, Metal Coordination, and Catalytic Applications in Cyclic Carbonate Synthesis",
+    "link": "https://pubs.acs.org/doi/10.1021/acsomega.5c12671?af=R",
+    "published_date": "2026-02-17",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acsomega.5c12671",
+      "title": "Eugenol-Derived Bipyridine Ligand Scaffolds: Design, Metal Coordination, and Catalytic Applications in Cyclic Carbonate Synthesis",
+      "published_date": [
+        2026,
+        2,
+        5
+      ],
+      "authors": [
+        {
+          "first_name": "Mohsin",
+          "last_name": "Hassan",
+          "institution": [
+            "Department of Chemistry",
+            "Texas A&M University",
+            "Centre for Interdisciplinary Research and Innovations",
+            "University of Kashmir"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Donald J.",
+          "last_name": "Darensbourg",
+          "institution": [
+            "Department of Chemistry",
+            "Texas A&M University"
+          ],
+          "orcid": null,
+          "texas_affiliation": true,
+          "db_researcher_id": 37
+        },
+        {
+          "first_name": "Gulzar A.",
+          "last_name": "Bhat",
+          "institution": [
+            "Department of Chemistry",
+            "University of Kashmir",
+            "Centre for Interdisciplinary Research and Innovations",
+            "University of Kashmir"
+          ],
+          "orcid": "0000-0001-7357-7327"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "journal_name": "ACS Omega",
+    "doi": "10.1021/acsomega.5c13154",
+    "title": "Predicting Carbon Dot Photoluminescence: A Comparative Machine Learning Study on Systematic Synthesis Data",
+    "link": "https://pubs.acs.org/doi/10.1021/acsomega.5c13154?af=R",
+    "published_date": "2026-02-17",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acsomega.5c13154",
+      "title": "Predicting Carbon Dot Photoluminescence: A Comparative Machine Learning Study on Systematic Synthesis Data",
+      "published_date": [
+        2026,
+        2,
+        6
+      ],
+      "authors": [
+        {
+          "first_name": "Ali Nabi",
+          "last_name": "Duman",
+          "institution": [
+            "Department of Mathematics and Statistics",
+            "University of Houston-Downtown"
+          ],
+          "orcid": "0000-0002-1299-8571",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Youcef",
+          "last_name": "Djoudi",
+          "institution": [
+            "Department of Mathematics and Statistics",
+            "University of Houston-Downtown"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Skyler",
+          "last_name": "Phillips",
+          "institution": [
+            "Department of Mathematics and Statistics",
+            "University of Houston-Downtown"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Almaz S.",
+          "last_name": "Jalilov",
+          "institution": [
+            "Department of Biology, Chemistry and Environmental Sciences, American University of Sharjah, P.O. Box 26666Sharjah, United Arab Emirates"
+          ],
+          "orcid": null
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "journal_name": "Nature",
+    "doi": "10.1038/s41586-026-10280-6",
+    "title": "Publisher Correction: PtdIns(3,5)P<sub>2</sub> is an endogenous ligand of STING in innate immune signalling",
+    "link": "https://www.nature.com/articles/s41586-026-10280-6",
+    "published_date": "2026-02-20",
+    "crossref": {
+      "access": true,
+      "doi": "10.1038/s41586-026-10280-6",
+      "title": "Publisher Correction: PtdIns(3,5)P2 is an endogenous ligand of STING in innate immune signalling",
+      "published_date": [
+        2026,
+        2,
+        20
+      ],
+      "authors": [
+        {
+          "first_name": "Jay Xiaojun",
+          "last_name": "Tan",
+          "institution": [],
+          "orcid": "0000-0003-3300-2240"
+        },
+        {
+          "first_name": "Bo",
+          "last_name": "Lv",
+          "institution": [],
+          "orcid": "0000-0002-3448-8986"
+        },
+        {
+          "first_name": "Jie",
+          "last_name": "Li",
+          "institution": [],
+          "orcid": "0000-0002-1059-280X"
+        },
+        {
+          "first_name": "Tuo",
+          "last_name": "Li",
+          "institution": [],
+          "orcid": "0000-0001-6268-7520"
+        },
+        {
+          "first_name": "Fenghe",
+          "last_name": "Du",
+          "institution": [],
+          "orcid": null
+        },
+        {
+          "first_name": "Xiang",
+          "last_name": "Chen",
+          "institution": [],
+          "orcid": null
+        },
+        {
+          "first_name": "Xuewu",
+          "last_name": "Zhang",
+          "institution": [],
+          "orcid": "0000-0002-3634-6711",
+          "db_researcher_id": 751
+        },
+        {
+          "first_name": "Xiao-chen",
+          "last_name": "Bai",
+          "institution": [],
+          "orcid": "0000-0002-4234-5686"
+        },
+        {
+          "first_name": "Zhijian J.",
+          "last_name": "Chen",
+          "institution": [],
+          "orcid": "0000-0002-8475-8251",
+          "db_researcher_id": 549
+        }
+      ],
+      "abstract": ""
+    }
+  },
+  {
+    "journal_name": "Chemical Science",
+    "doi": "10.1039/D5SC07400B",
+    "title": "Unveiling BCL-xL-specific PROTAC efficiency and dissociation pathways using native mass spectrometry",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/SC/D5SC07400B",
+    "published_date": "2026-02-19",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5SC07400B",
+      "title": "Unveiling BCL-xL-specific PROTAC efficiency and dissociation pathways using native mass spectrometry",
+      "published_date": [
+        2026
+      ],
+      "authors": [
+        {
+          "first_name": "Mohamed I.",
+          "last_name": "Gadallah",
+          "institution": [
+            "Department of Chemistry, The University of Texas at Austin, Austin, TX, 78712, USA",
+            "Department of Pharmaceutical Analytical Chemistry, Faculty of Pharmacy, Assuit University, Assuit 71526, Egypt"
+          ],
+          "orcid": "0000-0003-4913-7668",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Kailyn L.",
+          "last_name": "Nonhof",
+          "institution": [
+            "Department of Chemistry, The University of Texas at Austin, Austin, TX, 78712, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Digant",
+          "last_name": "Nayak",
+          "institution": [
+            "Department of Biochemistry and Structural Biology and Greehey Children's Cancer Research Institute, The University of Texas Health Science Center at San Antonio, San Antonio, TX 78229, USA"
+          ],
+          "orcid": "0000-0003-3680-0846",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Peiyi",
+          "last_name": "Zhang",
+          "institution": [
+            "Department of Medicinal Chemistry, College of Pharmacy, University of Florida, Gainesville, FL 32611, USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Olivia",
+          "last_name": "Dioli",
+          "institution": [
+            "Department of Chemistry, The University of Texas at Austin, Austin, TX, 78712, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Guangrong",
+          "last_name": "Zheng",
+          "institution": [
+            "Department of Medicinal Chemistry, College of Pharmacy, University of Florida, Gainesville, FL 32611, USA"
+          ],
+          "orcid": "0000-0002-8106-6663"
+        },
+        {
+          "first_name": "Shaun K.",
+          "last_name": "Olsen",
+          "institution": [
+            "Department of Biochemistry and Structural Biology and Greehey Children's Cancer Research Institute, The University of Texas Health Science Center at San Antonio, San Antonio, TX 78229, USA"
+          ],
+          "orcid": "0000-0002-1265-7101",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Daohong",
+          "last_name": "Zhou",
+          "institution": [
+            "Department of Biochemistry and Structural Biology and Greehey Children's Cancer Research Institute, The University of Texas Health Science Center at San Antonio, San Antonio, TX 78229, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Jennifer S.",
+          "last_name": "Brodbelt",
+          "institution": [
+            "Department of Chemistry, The University of Texas at Austin, Austin, TX, 78712, USA"
+          ],
+          "orcid": "0000-0003-3207-0217",
+          "texas_affiliation": true,
+          "db_researcher_id": 322
+        }
+      ],
+      "abstract": "<jats:p>Native mass spectrometry captures PROTAC binding and ternary complex formation, and gas-phase activation (CID, UVPD) and variable-temperature ESI methods delineate the stabilities and stepwise disassembly of PROTAC-induced ternary complexes.</jats:p>"
+    },
+    "summary": "A groundbreaking approach using native mass spectrometry reveals the efficiency and dissociation pathways of BCL-xL-specific PROTACs. Key insights into the binding mechanisms and stability of ternary complexes enhance our understanding of PROTAC functionality. This knowledge is crucial for optimizing drug design in the targeting of difficult-to-treat cancers, potentially improving therapeutic outcomes."
+  },
+  {
+    "journal_name": "Chemical Communications",
+    "doi": "10.1039/D5CC06492A",
+    "title": "Fluoride ion chelation via pnictogen bonding using a distibora[1.1]ferrocenophane",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/CC/D5CC06492A",
+    "published_date": "2026-01-30",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5CC06492A",
+      "title": "Fluoride ion chelation\n                    <i>via</i>\n                    pnictogen bonding using a distibora[1.1]ferrocenophane",
+      "published_date": [
+        2026
+      ],
+      "authors": [
+        {
+          "first_name": "Arunabha",
+          "last_name": "Thakur",
+          "institution": [
+            "Department of Chemistry, Texas A&M University, College Station, TX 77843, USA",
+            "Department of Chemistry, Jadavpur University, Kolkata 700032, India"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Brendan L.",
+          "last_name": "Murphy",
+          "institution": [
+            "Department of Chemistry, Texas A&M University, College Station, TX 77843, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "You",
+          "last_name": "Jiang",
+          "institution": [
+            "Department of Chemistry, Texas A&M University, College Station, TX 77843, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Nattamai",
+          "last_name": "Bhuvanesh",
+          "institution": [
+            "Department of Chemistry, Texas A&M University, College Station, TX 77843, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Fran\u00e7ois P.",
+          "last_name": "Gabba\u00ef",
+          "institution": [
+            "Department of Chemistry, Texas A&M University, College Station, TX 77843, USA"
+          ],
+          "orcid": "0000-0003-4788-2998",
+          "texas_affiliation": true,
+          "db_researcher_id": 41
+        }
+      ],
+      "abstract": "As part of our interest in anion binding platforms, we now report the synthesis and structure of a neutral distibora[1.1]ferrocenophane, which behaves as a bidentate Lewis acid as demonstrated by its ability to chelate a fluoride anion. This bonding mode, confirmed by single crystal X-ray diffraction, is associated with a fluoride ion affinity of 346 kJ mol<sup>-1</sup>."
+    },
+    "summary": "A novel distibora[1.1]ferrocenophane has been developed, showcasing a unique capability to chelate fluoride ions through pnictogen bonding as a bidentate Lewis acid. This innovative bonding mechanism, confirmed by single crystal X-ray diffraction, exhibits a fluoride ion affinity of 346 kJ mol<sup>-1</sup>. The findings open new avenues for designing efficient anion binding platforms and enhance understanding of chemical interactions involving fluoride ions."
+  },
+  {
+    "journal_name": "Journal of the American Chemical Society",
+    "doi": "10.1021/jacs.5c19479",
+    "title": "Polysaccharide Meets Polyoxazoline: Regio- and Stereodefined \u03b2-1,2-Linked Pseudo-polysaccharides via Controlled Cationic Ring-Opening Polymerization",
+    "link": "https://pubs.acs.org/doi/10.1021/jacs.5c19479?af=R",
+    "published_date": "2026-02-18",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/jacs.5c19479",
+      "title": "Polysaccharide Meets Polyoxazoline: Regio- and Stereodefined \u03b2-1,2-Linked Pseudo-polysaccharides via Controlled Cationic Ring-Opening Polymerization",
+      "published_date": [
+        2026,
+        2,
+        3
+      ],
+      "authors": [
+        {
+          "first_name": "Serena I.",
+          "last_name": "Joseph",
+          "institution": [
+            "Department of Chemistry",
+            "The University of Texas at Austin"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Ariana M.",
+          "last_name": "Hernandez",
+          "institution": [
+            "Department of Chemistry",
+            "The University of Texas at Austin"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Serena",
+          "last_name": "Summers",
+          "institution": [
+            "Department of Chemistry",
+            "The University of Texas at Austin"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Cassandra E.",
+          "last_name": "Callmann",
+          "institution": [
+            "Department of Chemistry",
+            "The University of Texas at Austin"
+          ],
+          "orcid": "0000-0003-1561-3240",
+          "texas_affiliation": true,
+          "db_researcher_id": 541
+        }
+      ],
+      "abstract": "Polysaccharides exhibit remarkable stereochemical and regiochemical complexity, yet their natural heterogeneity produces differences in composition and material behavior that are difficult to control or predict. Here, we report a synthetic approach that overcomes these challenges through the controlled, cationic ring-opening polymerization of glucosamine-derived 2-oxazoline monomers, affording a new class of well-defined pseudo-polysaccharides, wherein each saccharide subunit is 1,2-<i>N</i>-linked through a nitrogen containing a pendant acyl group. Under optimized conditions using a benzyl-protected monomer (OBn-GlcOx) and a methyl tosylate initiator, polymerization proceeds to full conversion within 3 h at 75 \u00b0C with linear molecular weight growth, first-order kinetics, and low dispersity (D\u0335 \u2264 1.2), consistent with a controlled polymerization mechanism. The resulting polymers exhibit complete \u03b2-1,2-regio- and stereoselectivity, narrow molecular-weight distributions, and retention of chain-end functionality that enables chain extension to form diblock copolymers with 2-methyl-2-oxazoline. Following quantitative deprotection, the resulting polymer is water-soluble and both protected and nonprotected versions display markedly enhanced resistance to ultrasonic, acidic, and thermal degradation as compared to chitosan (mass loss \u226463% vs 93% under harshest conditions). These findings establish a synthetic route to stereoregular, amide-linked pseudo-polysaccharides with tunable physicochemical properties, expanding the accessible design space for well-defined, carbohydrate-based materials."
+    },
+    "summary": "A novel synthetic route enables the creation of well-defined pseudo-polysaccharides through controlled cationic ring-opening polymerization of glucosamine-derived 2-oxazoline monomers, achieving precise \u03b2-1,2-linkages. This approach results in polymers with exceptional stability and tunable physicochemical properties, outperforming traditional chitosan in harsh conditions. The development of these stereoregular, amide-linked materials opens new avenues for designing advanced carbohydrate-based applications in various fields."
+  },
+  {
+    "journal_name": "Journal of the American Chemical Society",
+    "doi": "10.1021/jacs.5c20997",
+    "title": "Carbenes Embedded in Cyclic Paraphenylenes: Detection, Ground-State Spin Multiplicity, and M\u00f6bius Aromaticity",
+    "link": "https://pubs.acs.org/doi/10.1021/jacs.5c20997?af=R",
+    "published_date": "2026-02-18",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/jacs.5c20997",
+      "title": "Carbenes Embedded in Cyclic Paraphenylenes: Detection, Ground-State Spin Multiplicity, and M\u00f6bius Aromaticity",
+      "published_date": [
+        2026,
+        2,
+        5
+      ],
+      "authors": [
+        {
+          "first_name": "Ku",
+          "last_name": "Kajikawa",
+          "institution": [
+            "Department of Chemistry, Graduate School of Advanced Science and Engineering",
+            "Hiroshima University"
+          ],
+          "orcid": "0009-0005-0066-7686"
+        },
+        {
+          "first_name": "Francisco A.",
+          "last_name": "Martins",
+          "institution": [
+            "Department of Chemistry",
+            "University of Houston"
+          ],
+          "orcid": "0000-0002-3986-1030",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Ryo",
+          "last_name": "Murata",
+          "institution": [
+            "Department of Chemistry, Graduate School of Advanced Science and Engineering",
+            "Hiroshima University"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Eiichi",
+          "last_name": "Kayahara",
+          "institution": [
+            "Department of Chemistry, Graduate School of Advanced Science and Engineering",
+            "Hiroshima University",
+            "Institute for Chemical Research",
+            "Kyoto University"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Shigeru",
+          "last_name": "Yamago",
+          "institution": [
+            "Institute for Chemical Research",
+            "Kyoto University"
+          ],
+          "orcid": "0000-0002-4112-7249"
+        },
+        {
+          "first_name": "Judy I.",
+          "last_name": "Wu",
+          "institution": [
+            "Department of Chemistry",
+            "University of Houston"
+          ],
+          "orcid": "0000-0003-0590-5290",
+          "texas_affiliation": true,
+          "db_researcher_id": 96
+        },
+        {
+          "first_name": "Manabu",
+          "last_name": "Abe",
+          "institution": [
+            "Department of Chemistry, Graduate School of Advanced Science and Engineering",
+            "Hiroshima University"
+          ],
+          "orcid": "0000-0002-2013-4394"
+        }
+      ],
+      "abstract": "Carbenes are divalent carbon species that have attracted significant research interest due to their ability to form two new bonds and their potential applications as ligands in catalysis and in the development of magnetic materials. In this study, we report singlet ground-state diarylcarbenes, embedded within a unique curved \u03c0-conjugated cycloparaphenylene (CPP) framework and composed solely of carbon and hydrogen atoms. We also examined the M\u00f6bius and H\u00fcckel aromaticity of these CPP-embedded carbenes."
+    },
+    "summary": "The discovery of singlet ground-state diarylcarbenes embedded in a unique curved \u03c0-conjugated cycloparaphenylene framework represents a significant advancement in the study of carbenes and their properties. This research uncovers the intriguing interplay between M\u00f6bius and H\u00fcckel aromaticity in these systems, expanding the understanding of aromatic stabilization in unconventional geometries. The implications of these findings could lead to innovative applications in catalysis and the development of new magnetic materials."
+  },
+  {
+    "journal_name": "Journal of the American Chemical Society",
+    "doi": "10.1021/jacs.5c20980",
+    "title": "Coordination-Dependent Oxygen Reduction Reaction Activity of Single Atom Co\u2013Nx\u2013C Electrocatalysts",
+    "link": "https://pubs.acs.org/doi/10.1021/jacs.5c20980?af=R",
+    "published_date": "2026-02-18",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/jacs.5c20980",
+      "title": "Coordination-Dependent Oxygen Reduction Reaction Activity of Single Atom Co\u2013N\n                    <i>x</i>\n                    \u2013C Electrocatalysts",
+      "published_date": [
+        2026,
+        2,
+        6
+      ],
+      "authors": [
+        {
+          "first_name": "Chang",
+          "last_name": "Liu",
+          "institution": [
+            "School of Chemical and Biomolecular Engineering",
+            "The University of Sydney"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Di",
+          "last_name": "Zhang",
+          "institution": [
+            "Advanced Institute for Materials Research (WPI-AIMR)",
+            "Tohoku University"
+          ],
+          "orcid": "0000-0001-6347-9344"
+        },
+        {
+          "first_name": "Jiaxiang",
+          "last_name": "Chen",
+          "institution": [
+            "School of Chemical and Biomolecular Engineering",
+            "The University of Sydney"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Fangxin",
+          "last_name": "She",
+          "institution": [
+            "School of Chemical and Biomolecular Engineering",
+            "The University of Sydney"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Fangzhou",
+          "last_name": "Liu",
+          "institution": [
+            "School of Chemical and Biomolecular Engineering",
+            "The University of Sydney"
+          ],
+          "orcid": "0000-0001-9204-5481"
+        },
+        {
+          "first_name": "Zixun",
+          "last_name": "Yu",
+          "institution": [
+            "School of Chemical and Biomolecular Engineering",
+            "The University of Sydney"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Zhi",
+          "last_name": "Zheng",
+          "institution": [
+            "School of Chemical and Biomolecular Engineering",
+            "The University of Sydney"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Matthew S.",
+          "last_name": "Levine",
+          "institution": [
+            "Department of Chemistry",
+            "The University of Texas at Austin"
+          ],
+          "orcid": "0000-0002-2622-2678",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Jonathan L.",
+          "last_name": "Sessler",
+          "institution": [
+            "Department of Chemistry",
+            "The University of Texas at Austin"
+          ],
+          "orcid": "0000-0002-9576-1325",
+          "texas_affiliation": true,
+          "db_researcher_id": 355
+        },
+        {
+          "first_name": "Yuan",
+          "last_name": "Chen",
+          "institution": [
+            "School of Chemical and Biomolecular Engineering",
+            "The University of Sydney"
+          ],
+          "orcid": "0000-0001-9059-3839"
+        },
+        {
+          "first_name": "Hao",
+          "last_name": "Li",
+          "institution": [
+            "Advanced Institute for Materials Research (WPI-AIMR)",
+            "Tohoku University"
+          ],
+          "orcid": "0000-0002-7577-1366"
+        },
+        {
+          "first_name": "Li",
+          "last_name": "Wei",
+          "institution": [
+            "School of Chemical and Biomolecular Engineering",
+            "The University of Sydney"
+          ],
+          "orcid": "0000-0001-8771-2921"
+        }
+      ],
+      "abstract": "The coordination number between the bound metal center and the supporting nitrogen atoms in single-metal-atom nitrogen-carbon catalysts (M-N-C) is an important structural parameter that can impact the catalytic activity. Understanding the structure-activity relationship between coordination number and catalytic activity is made challenging by difficulties in obtaining M-N-C catalysts with precisely controlled metal-nitrogen coordination environments. Herein, we address this challenge using heterogeneous molecular catalysts for the oxygen reduction reaction (ORR) constructed by depositing structure-defined organometallic molecules on a catalytically inert carbon nanotube substrate. The explicit metal-nitrogen coordination environments enabled us to establish accurate ORR activity-structure correlations for cobalt metal centers with first-shell Co-N coordination numbers of 3 to 5 (Co-N<i>x</i>, where <i>x</i> = 3, 4, and 5). A good agreement between theoretical predictions and experimental ORR activity and selectivity was seen. Of note, Co atoms in an asymmetric coordination environment were found to exhibit higher activity for the two-electron (2e) ORR. Kinetic studies and <i>operando</i> spectroscopic measurements further revealed that the first-shell coordinating C or N atoms in asymmetric Co-N3 and Co-N5 centers could be protonated and participate in the ORR as a proton relay. The present study may aid in understanding the role of the coordination environment in other metal-based catalytic systems being applied to renewable energy conversion reactions."
+    },
+    "summary": "A new approach utilizing heterogeneous molecular catalysts enhances the oxygen reduction reaction activity by precisely controlling the coordination number between cobalt and nitrogen in single-metal-atom catalysts. The study reveals that asymmetric coordination environments significantly improve catalytic performance and facilitate proton relay mechanisms during the reaction. This finding is vital for advancing metal-based catalysts in renewable energy applications, offering insights applicable to a range of catalytic systems."
+  },
+  {
+    "journal_name": "Angewandte Chemie Int. Ed.",
+    "doi": "10.1002/anie.202524237",
+    "title": "Simultaneous Imaging of Cu+ and Cu2+ in Neural Cells Using DNAzyme Probes Reveals Mechanistic Link Between Copper Redox Imbalance and Amyloid Pathology",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.202524237?af=R",
+    "published_date": "2026-02-21",
+    "crossref": {
+      "access": true,
+      "doi": "10.1002/anie.202524237",
+      "title": "Simultaneous Imaging of Cu\n                    <sup>+</sup>\n                    and Cu\n                    <sup>2</sup>\n                    <sup>+</sup>\n                    in Neural Cells Using DNAzyme Probes Reveals Mechanistic Link Between Copper Redox Imbalance and Amyloid Pathology",
+      "published_date": [
+        2026,
+        2,
+        21
+      ],
+      "authors": [
+        {
+          "first_name": "Xiangli",
+          "last_name": "Shao",
+          "institution": [
+            "Department of Chemistry University of Texas at Austin  Austin Texas USA"
+          ],
+          "orcid": "0000-0001-8118-6414",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Zhenglin",
+          "last_name": "Yang",
+          "institution": [
+            "Department of Chemistry University of Texas at Austin  Austin Texas USA"
+          ],
+          "orcid": "0000-0003-2743-5779",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Zhihao",
+          "last_name": "Xu",
+          "institution": [
+            "Department of Experimental Radiation Oncology The University of Texas MD Anderson Cancer Center  Houston Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Weijie",
+          "last_name": "Guo",
+          "institution": [
+            "Department of Molecular Biosciences University of Texas at Austin  Austin Texas USA"
+          ],
+          "orcid": "0000-0001-5694-2142",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Whitney",
+          "last_name": "Lewis",
+          "institution": [
+            "Department of Chemistry University of Texas at Austin  Austin Texas USA"
+          ],
+          "orcid": "0000-0003-1203-6441",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Boyi",
+          "last_name": "Gan",
+          "institution": [
+            "Department of Experimental Radiation Oncology The University of Texas MD Anderson Cancer Center  Houston Texas USA",
+            "The University of Texas MD Anderson Cancer Center, UT Health Graduate School of Biomedical Sciences  Houston Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Yi",
+          "last_name": "Lu",
+          "institution": [
+            "Department of Chemistry University of Texas at Austin  Austin Texas USA",
+            "Department of Molecular Biosciences University of Texas at Austin  Austin Texas USA"
+          ],
+          "orcid": "0000-0003-1221-6709",
+          "texas_affiliation": true,
+          "db_researcher_id": 339
+        }
+      ],
+      "abstract": "Copper dysregulation is implicated in neurodegenerative diseases such as Alzheimer's disease (AD), yet its precise role in neuronal death remains unclear. To address this issue, here, we introduce a pair of Cu<sup>+</sup> and Cu<sup>2</sup> <sup>+</sup> specific DNAzymes-based fluorescent probes, for the first time, enabling simultaneous visualization of both redox states of copper in single living neurons. Using this dual-color system, we found that amyloid-beta (A\u03b2) oligomerization promotes intracellular copper accumulation, distinct from that induced by artificial ionophore loading. Elevated Cu<sup>+</sup> drives reactive oxygen species (ROS) generation, lipoylated protein aggregation, and FDX1-dependent cuproptosis, while Cu<sup>+</sup> chelation or FDX1 knockdown completely prevents cell death. In contrast, ROS scavengers only partially rescue viability, demonstrating that neuronal death is driven by copper overload, not oxidative stress itself. These findings redefine the mechanistic framework linking copper redox imbalance to A\u03b2 pathology and neuronal vulnerability and demonstrate a selective, sensitive approach for monitoring copper homeostasis and its disruption in neurodegenerative disease."
+    },
+    "summary": "Innovative DNAzyme probes provide the first simultaneous imaging of Cu+ and Cu2+ in live neural cells, shedding light on copper's dual roles in neurodegenerative pathology. The study reveals that elevated Cu+ levels, triggered by amyloid-beta oligomers, are responsible for neuronal death through mechanisms distinct from oxidative stress. This research not only redefines our understanding of copper dysregulation in diseases like Alzheimer's but also offers a new tool for monitoring copper fluctuations in neurodegenerative conditions."
+  },
+  {
+    "journal_name": "Angewandte Chemie Int. Ed.",
+    "doi": "10.1002/anie.202515008",
+    "title": "Hydrothermal Annealing of Hierarchical ZSM\u20105 Zeolites Improves Catalytic Performance",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.202515008?af=R",
+    "published_date": "Mon, 16 Fe",
+    "crossref": {
+      "access": true,
+      "doi": "10.1002/anie.202515008",
+      "title": "Hydrothermal Annealing of Hierarchical ZSM\u20105 Zeolites Improves Catalytic Performance",
+      "published_date": [
+        2026,
+        1,
+        15
+      ],
+      "authors": [
+        {
+          "first_name": "Kumari",
+          "last_name": "Shilpa",
+          "institution": [
+            "Department of Chemical and Biomolecular Engineering University of Houston  Houston Texas TX 77204 USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Heng",
+          "last_name": "Dai",
+          "institution": [
+            "Department of Chemical and Biomolecular Engineering University of Houston  Houston Texas TX 77204 USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Peng",
+          "last_name": "Lu",
+          "institution": [
+            "Department of Chemical and Biomolecular Engineering Johns Hopkins University  Baltimore Maryland 21287 USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Xinwei",
+          "last_name": "Ye",
+          "institution": [
+            "Inorganic Chemistry and Catalysis Group, Institute for Circular and Sustainable Chemistry Faculty of Science Utrecht University Universiteitsweg 99 Utrecht 3584 CG The Netherlands"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Carolin",
+          "last_name": "Rieg",
+          "institution": [
+            "Inorganic Chemistry and Catalysis Group, Institute for Circular and Sustainable Chemistry Faculty of Science Utrecht University Universiteitsweg 99 Utrecht 3584 CG The Netherlands"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Song",
+          "last_name": "Luo",
+          "institution": [
+            "Department of Chemical Engineering University of Massachusetts  Amherst Massachusetts 01003 USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Han",
+          "last_name": "Chen",
+          "institution": [
+            "Department of Chemical Engineering University of Massachusetts  Amherst Massachusetts 01003 USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Omar",
+          "last_name": "Abdelrahman",
+          "institution": [
+            "Department of Chemical and Biomolecular Engineering University of Houston  Houston Texas TX 77204 USA",
+            "Department of Chemical Engineering University of Massachusetts  Amherst Massachusetts 01003 USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Wei",
+          "last_name": "Fan",
+          "institution": [
+            "Department of Chemical Engineering University of Massachusetts  Amherst Massachusetts 01003 USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Bert M.",
+          "last_name": "Weckhuysen",
+          "institution": [
+            "Inorganic Chemistry and Catalysis Group, Institute for Circular and Sustainable Chemistry Faculty of Science Utrecht University Universiteitsweg 99 Utrecht 3584 CG The Netherlands"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Michael",
+          "last_name": "Tsapatsis",
+          "institution": [
+            "Department of Chemical and Biomolecular Engineering Johns Hopkins University  Baltimore Maryland 21287 USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Jeffrey D.",
+          "last_name": "Rimer",
+          "institution": [
+            "Department of Chemical and Biomolecular Engineering University of Houston  Houston Texas TX 77204 USA"
+          ],
+          "orcid": "0000-0002-2296-3428",
+          "texas_affiliation": true,
+          "db_researcher_id": 684
+        }
+      ],
+      "abstract": "Engineering next-generation zeolite catalysts requires state-of-the-art synthesis techniques to tailor the properties of materials along with robust methods to evaluate their catalytic performance. Here, we introduce hydrothermal annealing as a facile and highly effective method to improve the activity and lifetime of zeolite catalysts. This post-synthesis treatment uses a siliceous growth solution at approximate solubility of zeolite crystals with high temperature to alter the physicochemical properties of as-synthesized materials. We employ the methanol-to-hydrocarbons (MTH) process as a benchmark reaction, along with a wide range of characterization techniques, to assess the impact of annealing on four nanosized and hierarchical ZSM-5 materials compared to a commercial sample. Our findings reveal that annealing significantly increased cumulative MTH turnover without appreciably altering product selectivity, despite non-obvious changes to zeolite structure as a result of the annealing process. Comparisons of catalyst performance are made under identical reaction conditions using a descriptor that correlates cumulative turnovers to compositional, mass transport, and textural properties of each material - in line with growing efforts to increase rigor and reproducibility in the field of catalysis. The collective approach used in this study serves as a guideline for establishing structure-composition-performance relationships for zeolite-based catalysts across wide-ranging applications."
+    },
+    "summary": "Hydrothermal annealing presents an innovative post-synthesis technique that enhances the catalytic performance of ZSM-5 zeolites without significant alteration to their structure. The study demonstrates that this method markedly increases the methanol-to-hydrocarbons turnover rate, highlighting its potential for improving the longevity and efficiency of zeolite catalysts in industrial applications. By establishing a clear correlation between catalyst properties and performance metrics, this work sets a precedent for future research aimed at optimizing zeolite materials for diverse catalytic processes."
+  },
+  {
+    "journal_name": "Angewandte Chemie Int. Ed.",
+    "doi": "10.1002/anie.202521345",
+    "title": "Pulse\u2010Electrodeposited Single\u2010Atom Alloys with Steered Surface Hydrogenation Dynamics for Air\u2010to\u2010Fertilizer Synthesis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.202521345?af=R",
+    "published_date": "Mon, 16 Fe",
+    "crossref": {
+      "access": true,
+      "doi": "10.1002/anie.202521345",
+      "title": "Pulse\u2010Electrodeposited Single\u2010Atom Alloys with Steered Surface Hydrogenation Dynamics for Air\u2010to\u2010Fertilizer Synthesis",
+      "published_date": [
+        2026,
+        1,
+        16
+      ],
+      "authors": [
+        {
+          "first_name": "Mei",
+          "last_name": "Yi",
+          "institution": [
+            "Institute of Fundamental and Frontier Sciences University of Electronic Science and Technology of China  Chengdu 611731 China"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Pengfei",
+          "last_name": "Wang",
+          "institution": [
+            "Institute of Fundamental and Frontier Sciences University of Electronic Science and Technology of China  Chengdu 611731 China"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Rongguang",
+          "last_name": "Shi",
+          "institution": [
+            "Institute of Fundamental and Frontier Sciences University of Electronic Science and Technology of China  Chengdu 611731 China"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Wenjun",
+          "last_name": "Guo",
+          "institution": [
+            "Institute of Fundamental and Frontier Sciences University of Electronic Science and Technology of China  Chengdu 611731 China"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Dongqi",
+          "last_name": "Yang",
+          "institution": [
+            "Materials Science and Engineering Program and Walker Department of Mechanical Engineering The University of Texas at Austin  Austin Texas 78712 USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Panpan",
+          "last_name": "Li",
+          "institution": [
+            "College of Materials Science and Engineering Sichuan University  Chengdu 610065 China"
+          ],
+          "orcid": "0000-0001-9933-0357"
+        },
+        {
+          "first_name": "Guihua",
+          "last_name": "Yu",
+          "institution": [
+            "Materials Science and Engineering Program and Walker Department of Mechanical Engineering The University of Texas at Austin  Austin Texas 78712 USA"
+          ],
+          "orcid": "0000-0002-3253-0749",
+          "texas_affiliation": true,
+          "db_researcher_id": 746
+        },
+        {
+          "first_name": "Zhaoyu",
+          "last_name": "Jin",
+          "institution": [
+            "Institute of Fundamental and Frontier Sciences University of Electronic Science and Technology of China  Chengdu 611731 China"
+          ],
+          "orcid": "0000-0003-0840-3931"
+        }
+      ],
+      "abstract": "Harnessing renewable electricity to transform abundant environmental resources into fertilizers is central to sustainable development. Electrochemical nitrate-to-ammonia conversion provides a promising route, yet its efficiency is constrained by the elusive surface hydrogenation dynamics governing multi-step *NO<sub>x</sub> reduction. Here, a cooperative descriptor (\u03a8) derived from large-language-models-assisted mining and energetic analysis successfully identifies NiCu single-atom alloys (SAAs) as optimal catalysts. Pulse electrodeposition delivers atomically dispersed alloys with tunable structures, achieving a maximum Faradaic efficiency (FE) of \u223c95% and yield rate (YR) of \u223c11.4\u00a0mg h<sup>-1</sup> cm<sup>-2</sup>. In situ surface-interrogation scanning electrochemical microscopy (SI-SECM) provides quantitative information on the time-resolved surface-active hydrogen (*H) generation-consumption and *NO<sub>x</sub> hydrogenation rate constants (NiCu\u00a0>\u00a0CoCu\u00a0\u226b\u00a0MnCu \u2248 FeCu\u00a0>\u00a0Cu), directly aligning surface kinetics with selectivity. Theoretical investigations further confirmed that Ni doping lowers the barriers for *H formation and *NO<sub>x</sub> hydrogenation. A plasma-electrochemical-CO<sub>2</sub> capture system demonstrated continuous \"air-to-fertilizer\" conversion with reduced energy consumption and potential net-negative emissions. These results establish a transferable design rule that bridges theoretical descriptors with operando hydrogenation dynamics, providing a mechanistic foundation and practical pathway toward scalable, zero-carbon fertilizer production."
+    },
+    "summary": "Introducing a novel approach, this study demonstrates the potential of NiCu single-atom alloys for enhanced catalytic efficiency in converting nitrates to ammonia, achieving a Faradaic efficiency of approximately 95%. By employing pulse electrodeposition and in situ surface-interrogation techniques, the researchers elucidate the critical role of hydrogen surface dynamics in optimizing reaction pathways. This breakthrough paves the way for sustainable, zero-carbon fertilizer production, addressing environmental challenges in agriculture."
+  },
+  {
+    "journal_name": "Advanced Materials",
+    "doi": "10.1002/adma.202521481",
+    "title": "A Water\u2010Driven Switchable Material for Optical and Electronic Information Security: Electromagnetic Shielding and Optical Encryption",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202521481?af=R",
+    "published_date": "Sun, 01 Fe",
+    "crossref": {
+      "access": true,
+      "doi": "10.1002/adma.202521481",
+      "title": "A Water\u2010Driven Switchable Material for Optical and Electronic Information Security: Electromagnetic Shielding and Optical Encryption",
+      "published_date": [
+        2026,
+        1,
+        8
+      ],
+      "authors": [
+        {
+          "first_name": "Junjie",
+          "last_name": "Deng",
+          "institution": [
+            "Hubei Engineering Technology Research Center of Spectrum and Imaging Instrument Electronic Information School Wuhan University  Wuhan Hubei China"
+          ],
+          "orcid": "0000-0003-0420-6535"
+        },
+        {
+          "first_name": "Jiahui",
+          "last_name": "Liu",
+          "institution": [
+            "Hubei Engineering Technology Research Center of Spectrum and Imaging Instrument Electronic Information School Wuhan University  Wuhan Hubei China"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Bowen",
+          "last_name": "Zhang",
+          "institution": [
+            "College of Chemistry and Material Science Shandong Agricultural University  Taian Shandong China",
+            "Department of Chemistry Texas A&amp;M University College Station  Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Shuaibo",
+          "last_name": "Zhang",
+          "institution": [
+            "Hubei Engineering Technology Research Center of Spectrum and Imaging Instrument Electronic Information School Wuhan University  Wuhan Hubei China"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Donglei",
+          "last_name": "Fu",
+          "institution": [
+            "Hubei Engineering Technology Research Center of Spectrum and Imaging Instrument Electronic Information School Wuhan University  Wuhan Hubei China"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Xinghai",
+          "last_name": "Liu",
+          "institution": [
+            "Hubei Engineering Technology Research Center of Spectrum and Imaging Instrument Electronic Information School Wuhan University  Wuhan Hubei China",
+            "Wuhan Institute of Quantum Technology  Wuhan Hubei China"
+          ],
+          "orcid": "0000-0001-5873-2173"
+        }
+      ],
+      "abstract": "A multifunctional hydrogel capable of both wet-state microwave absorption and dry-state phosphorescence is designed. Incorporating Cu-doped carbon dots (Cu<sub>x</sub>-CDs) into a polyacrylamide/carboxymethyl cellulose (PAM/CMC) network enables synergistic modulation of electromagnetic and optical behaviors. Cu doping effectively regulates the hydrogen-bond network and water state within the hydrogel, promoting charge migration and dipolar polarization, thereby significantly enhancing dielectric loss and absorption efficiency. The optimized hydrogel exhibits a minimum reflection loss of -62.67\u00a0dB and an effective absorption bandwidth of 5.94\u00a0GHz within the 2-18\u00a0GHz range. Density functional theory (DFT) calculations reveal that Cu-N coordination reduces the energy gap and enhances electronic delocalization, facilitating charge transfer. Upon dehydration, the polymer network reconstructs into a dense and rigid framework that suppresses nonradiative transitions, yielding stable blue and green room-temperature phosphorescence. Such a transition from wet-state absorption to dry-state emission, driven by Cu doping and hydrogen-bond engineering, provides a new paradigm for constructing stimuli-responsive hydrogels. This work offers a versatile strategy for designing multifunctional materials with potential applications in electromagnetic protection, information encryption, and optical anti-counterfeiting."
+    },
+    "summary": "A novel hydrogel combining electromagnetic shielding and optical encryption capabilities has been developed, showcasing a transformation from wet-state microwave absorption to dry-state, phosphorescent emission. The key innovation lies in Cu-doping, which enhances charge migration and dielectric loss, achieving remarkable absorption efficiency and stable light emission under different moisture conditions. This multifunctional material presents significant applications in information security and anti-counterfeiting technologies, making it a valuable addition to the field of smart materials."
+  },
+  {
+    "journal_name": "Advanced Materials",
+    "doi": "10.1002/adma.202514373",
+    "title": "Structural Exploration of Zirconium Metal\u2013Organic Frameworks Through Linker Desymmetrization and Modulator Compensation",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202514373?af=R",
+    "published_date": "Sun, 01 Fe",
+    "crossref": {
+      "access": true,
+      "doi": "10.1002/adma.202514373",
+      "title": "Structural Exploration of Zirconium Metal\u2013Organic Frameworks Through Linker Desymmetrization and Modulator Compensation",
+      "published_date": [
+        2025,
+        12,
+        22
+      ],
+      "authors": [
+        {
+          "first_name": "Rong\u2010Ran",
+          "last_name": "Liang",
+          "institution": [
+            "Department of Chemistry Texas A&amp;M University  College Station Texas USA",
+            "School of Energy and Environment Southeast University  Nanjing Jiangsu China"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Kun\u2010Yu",
+          "last_name": "Wang",
+          "institution": [
+            "Department of Chemistry Texas A&amp;M University  College Station Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Zongsu",
+          "last_name": "Han",
+          "institution": [
+            "Department of Chemistry Texas A&amp;M University  College Station Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Kui",
+          "last_name": "Tan",
+          "institution": [
+            "Department of Chemistry University of North Texas  Denton Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Yihao",
+          "last_name": "Yang",
+          "institution": [
+            "Department of Chemistry Texas A&amp;M University  College Station Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Zhaoyi",
+          "last_name": "Liu",
+          "institution": [
+            "Department of Chemistry Texas A&amp;M University  College Station Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Joshua",
+          "last_name": "Rushlow",
+          "institution": [
+            "Department of Chemistry Texas A&amp;M University  College Station Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Jiatong",
+          "last_name": "Huo",
+          "institution": [
+            "Department of Chemistry Texas A&amp;M University  College Station Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Hong\u2010Cai",
+          "last_name": "Zhou",
+          "institution": [
+            "Department of Chemistry Texas A&amp;M University  College Station Texas USA"
+          ],
+          "orcid": "0000-0002-9029-3788",
+          "texas_affiliation": true
+        }
+      ],
+      "abstract": "Zirconium-based metal-organic frameworks (Zr-MOFs) feature exceptional thermal/chemical stability among various MOFs, enabling diverse applications. Their material properties are highly dependent on molecular structures consisting of Zr-clusters and organic linkers. However, structural diversity in Zr-MOFs remains constrained by the limited variety of known Zr-clusters and the predominance of high-symmetry linkers, which stems from the inherent symmetry constraints presented by Zr-clusters. In this work, we develop a linker-desymmetrization-modulator-compensation (LDMC) strategy to construct Zr-MOFs with enhanced structural diversity. This approach reduces linker symmetry to create structural defects in Zr-clusters, while such a thermodynamically unfavorable process can be compensated for by the coordination of modulators, such as benzoic acid and formic acid. As a result, two MOFs, PCN-1005 and PCN-1006, with unprecedented Zr-clusters have been constructed. PCN-1005 features an asymmetric Zr<sub>6</sub> cluster stabilized by mono- and capping benzoates. In PCN-1006, a rare pentacarboxylate linker enables the formation of a dual-node network comprised of both Zr<sub>6</sub> and Zr<sub>6</sub>-f-Zr<sub>6</sub> clusters, resulting in one-dimensional channels with exceptional adsorption performance for methane and carbon dioxide, affording high selectivity over hydrogen. These findings underscore the advancement of the LDMC strategy in promoting the structural complexity and functionality of Zr-MOFs, providing a versatile platform for energy and environmental applications."
+    },
+    "summary": "A novel linker-desymmetrization-modulator-compensation (LDMC) strategy unlocks new structural diversity in zirconium-based metal-organic frameworks (Zr-MOFs) by creating asymmetry in Zr-clusters. This innovative approach has led to the development of two new MOFs, PCN-1005 and PCN-1006, which exhibit enhanced adsorption performance for methane and carbon dioxide due to their unique structural configurations. The implications of this research are significant, as it broadens the potential applications of Zr-MOFs in energy and environmental sectors through improved selectivity and stability."
+  },
+  {
+    "journal_name": "Nature Energy",
+    "doi": "10.1038/s41560-025-01963-x",
+    "title": "Chemical factors controlling the behaviour of oxide cathodes in batteries",
+    "link": "https://www.nature.com/articles/s41560-025-01963-x",
+    "published_date": "2026-02-18",
+    "crossref": {
+      "access": true,
+      "doi": "10.1038/s41560-025-01963-x",
+      "title": "Chemical factors controlling the behaviour of oxide cathodes in batteries",
+      "published_date": [
+        2026,
+        2,
+        18
+      ],
+      "authors": [
+        {
+          "first_name": "Arumugam",
+          "last_name": "Manthiram",
+          "institution": [],
+          "orcid": "0000-0003-0237-9563",
+          "db_researcher_id": 649
+        },
+        {
+          "first_name": "Zehao",
+          "last_name": "Cui",
+          "institution": [],
+          "orcid": "0000-0003-1860-4198"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "journal_name": "ACS Catalysis",
+    "doi": "10.1021/acscatal.5c08102",
+    "title": "Kinetically Constrained Capture and Conversion of CO2 from Ambient Air Using Excess Oxygen-Derived Recalcitrant Carbonates",
+    "link": "https://pubs.acs.org/doi/10.1021/acscatal.5c08102?af=R",
+    "published_date": "2026-02-20",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acscatal.5c08102",
+      "title": "Kinetically Constrained Capture and Conversion of CO\n                    <sub>2</sub>\n                    from Ambient Air Using Excess Oxygen-Derived Recalcitrant Carbonates",
+      "published_date": [
+        2026,
+        2,
+        3
+      ],
+      "authors": [
+        {
+          "first_name": "Xiaowei",
+          "last_name": "Wu",
+          "institution": [
+            "William A. Brookshire Department of Chemical and Biomolecular Engineering",
+            "University of Houston"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Rahul",
+          "last_name": "Pandey",
+          "institution": [
+            "SRI International"
+          ],
+          "orcid": "0009-0006-6629-7320"
+        },
+        {
+          "first_name": "Ramanan",
+          "last_name": "Krishnamoorti",
+          "institution": [
+            "William A. Brookshire Department of Chemical and Biomolecular Engineering",
+            "University of Houston"
+          ],
+          "orcid": "0000-0001-5831-502X",
+          "texas_affiliation": true,
+          "db_researcher_id": 941
+        },
+        {
+          "first_name": "Praveen",
+          "last_name": "Bollini",
+          "institution": [
+            "William A. Brookshire Department of Chemical and Biomolecular Engineering",
+            "University of Houston"
+          ],
+          "orcid": "0000-0001-8092-8092",
+          "texas_affiliation": true
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "journal_name": "ACS Catalysis",
+    "doi": "10.1021/acscatal.5c08582",
+    "title": "Correction to \u201cA Career in Catalysis: Daniel Resasco\u201dA Career in Catalysis: Daniel Resasco",
+    "link": "https://pubs.acs.org/doi/10.1021/acscatal.5c08582?af=R",
+    "published_date": "2026-02-20",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acscatal.5c08582",
+      "title": "Correction to \u201cA Career in Catalysis: Daniel Resasco\u201d",
+      "published_date": [
+        2026,
+        2,
+        4
+      ],
+      "authors": [
+        {
+          "first_name": "Joaquin",
+          "last_name": "Resasco",
+          "institution": [
+            "McKetta Department of Chemical Engineering",
+            "University of Texas at Austin"
+          ],
+          "orcid": "0000-0001-6374-9877",
+          "texas_affiliation": true,
+          "db_researcher_id": 682
+        },
+        {
+          "first_name": "Jimmy Faria",
+          "last_name": "Albanese",
+          "institution": [
+            "Catalytic Processes and Materials Group, Faculty of Science and Technology, MESA+ Institute for Nanotechnology",
+            "University of Twente"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Walter",
+          "last_name": "Alvarez",
+          "institution": [
+            "School of Sustainable Chemical, Biological, and Materials Engineering",
+            "University of Oklahoma"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Steven",
+          "last_name": "Crossley",
+          "institution": [
+            "School of Sustainable Chemical, Biological, and Materials Engineering",
+            "University of Oklahoma"
+          ],
+          "orcid": "0000-0002-1017-9839"
+        },
+        {
+          "first_name": "Gary L.",
+          "last_name": "Haller",
+          "institution": [
+            "Department of Chemical and Environmental Engineering",
+            "Yale University"
+          ],
+          "orcid": "0000-0001-8482-5488"
+        },
+        {
+          "first_name": "Jos\u00e9 E.",
+          "last_name": "Herrera",
+          "institution": [
+            "Department of Chemical and Biochemical Engineering",
+            "Western University"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Gary",
+          "last_name": "Jacobs",
+          "institution": [
+            "Department of Chemical Engineering",
+            "University of Texas at San Antonio"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Johannes",
+          "last_name": "Lercher",
+          "institution": [
+            "Institute for Integrated Catalysis",
+            "Pacific Northwest National Laboratory",
+            "Department of Chemistry and Catalysis Research Center",
+            "Technical University of Munich"
+          ],
+          "orcid": "0000-0002-2495-1404"
+        },
+        {
+          "first_name": "Gengnan",
+          "last_name": "Li",
+          "institution": [
+            "Center for Nanoscale Materials",
+            "Argonne National Laboratory"
+          ],
+          "orcid": "0000-0003-0596-0126"
+        },
+        {
+          "first_name": "Lance",
+          "last_name": "Lobban",
+          "institution": [
+            "School of Sustainable Chemical, Biological, and Materials Engineering",
+            "University of Oklahoma"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "F\u00e1bio Bellot",
+          "last_name": "Noronha",
+          "institution": [
+            "Catalysis, Biocatalysis and Chemical Processes Division",
+            "National Institute of Technology"
+          ],
+          "orcid": "0000-0003-1008-1265"
+        },
+        {
+          "first_name": "M. Pilar",
+          "last_name": "Ruiz",
+          "institution": [
+            "Sustainable Process Technology, Faculty of Science and Technology",
+            "University of Twente",
+            "Circular Chemical Engineering",
+            "Maastricht University"
+          ],
+          "orcid": "0000-0003-1437-5578"
+        },
+        {
+          "first_name": "Tawan",
+          "last_name": "Sooknoi",
+          "institution": [
+            "Department of Chemistry, School of Science, King Mongkut\u2019s Institute of Technology Ladkrabang, Chalongkrung Road, Ladkrabang, Bangkok 10520, Thailand"
+          ],
+          "orcid": "0000-0002-3874-0384"
+        },
+        {
+          "first_name": "Bin",
+          "last_name": "Wang",
+          "institution": [
+            "School of Sustainable Chemical, Biological, and Materials Engineering",
+            "University of Oklahoma"
+          ],
+          "orcid": "0000-0001-8246-1422"
+        }
+      ],
+      "abstract": null
+    }
+  },
+  {
+    "journal_name": "Analytical Chemistry",
+    "doi": "10.1021/acs.analchem.5c04295",
+    "title": "Investigating the Effect of Isoelectric Points on the Gas-Phase Stability of Native-like Proteins Analyzed in Positive- versus Negative-Ion Mode by IMS-MS",
+    "link": "https://pubs.acs.org/doi/10.1021/acs.analchem.5c04295?af=R",
+    "published_date": "2026-02-17",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acs.analchem.5c04295",
+      "title": "Investigating the Effect of Isoelectric Points on the Gas-Phase Stability of Native-like Proteins Analyzed in Positive- versus Negative-Ion Mode by IMS-MS",
+      "published_date": [
+        2026,
+        2,
+        4
+      ],
+      "authors": [
+        {
+          "first_name": "Alexis N.",
+          "last_name": "Edwards",
+          "institution": [
+            "Department of Chemistry and Biochemistry, Baylor University, One Bear Place #97348, Waco, Texas 76798, United States"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Madeline G.",
+          "last_name": "Bannon",
+          "institution": [
+            "Department of Chemistry and Biochemistry, Baylor University, One Bear Place #97348, Waco, Texas 76798, United States"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Michael S.",
+          "last_name": "Cordes",
+          "institution": [
+            "Department of Chemistry and Biochemistry, Baylor University, One Bear Place #97348, Waco, Texas 76798, United States"
+          ],
+          "orcid": "0009-0002-2953-5730",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Elyssia S.",
+          "last_name": "Gallagher",
+          "institution": [
+            "Department of Chemistry and Biochemistry, Baylor University, One Bear Place #97348, Waco, Texas 76798, United States"
+          ],
+          "orcid": "0000-0002-5411-7285",
+          "texas_affiliation": true,
+          "db_researcher_id": 384
+        }
+      ],
+      "abstract": "Native ion mobility spectrometry-mass spectrometry (IMS-MS) is routinely used for analysis of folded proteins and protein complexes. For many proteins, the three-dimensional structure is maintained during electrospray ionization (ESI) as the protein transitions to the gas phase, allowing for detailed investigation of the gaseous, ionic protein's structure and stability. Much of the native IMS-MS research has been conducted in positive-ion mode (+ESI), even when the protein of interest has a net-negative charge in solution at physiological pH. We hypothesize that analyzing a protein in the polarity that is opposite to its solution-phase charge, such as analyzing net-negative proteins by +ESI-MS, disrupts the network of noncovalent-bonding interactions within the protein to a greater extent than using the polarity that matches the protein's solution-phase charge, resulting in differences in protein stability. Herein, we show that while most protein ions have similar initial, folded structures in +ESI and negative-ion mode (-ESI), positive and negative ions exhibit significant differences in gas-phase stability. Furthermore, the energy required to cause this unfolding is often greater in the polarity corresponding to the solution-phase charge of the protein, indicating that the protein is more stable in that polarity. Thus, this work highlights the necessity of considering polarity when conducting native IMS-MS experiments."
+    },
+    "summary": "Analyzing proteins using ion mobility spectrometry-mass spectrometry (IMS-MS) with a polarity matching their solution-phase charge significantly enhances gas-phase stability compared to using the opposite polarity. This study reveals that proteins exhibit different gas-phase unfolding energies, reinforcing the importance of polarity in native IMS-MS experiments. Understanding these differences is crucial for accurately characterizing protein structures and their dynamics in the gas phase, potentially impacting various applications in protein analysis and drug development."
+  },
+  {
+    "journal_name": "Analytical Chemistry",
+    "doi": "10.1021/acs.analchem.5c07937",
+    "title": "A Critical Evaluation of Concentration Proxies in SIMS Diffusion Studies",
+    "link": "https://pubs.acs.org/doi/10.1021/acs.analchem.5c07937?af=R",
+    "published_date": "2026-02-17",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acs.analchem.5c07937",
+      "title": "A Critical Evaluation of Concentration Proxies in SIMS Diffusion Studies",
+      "published_date": [
+        2026,
+        2,
+        3
+      ],
+      "authors": [
+        {
+          "first_name": "Nicolas",
+          "last_name": "Molina",
+          "institution": [
+            "Texas Materials Institute",
+            "The University of Texas at Austin",
+            "Materials Science and Engineering Program",
+            "The University of Texas at Austin"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Andrei",
+          "last_name": "Dolocan",
+          "institution": [
+            "Texas Materials Institute",
+            "The University of Texas at Austin"
+          ],
+          "orcid": "0000-0001-5653-0439",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "John F.",
+          "last_name": "Curry",
+          "institution": [
+            "Material, Physical, and Chemical Sciences Center",
+            "Sandia National Laboratories"
+          ],
+          "orcid": "0000-0003-2611-1297"
+        },
+        {
+          "first_name": "Gregory J.",
+          "last_name": "Rodin",
+          "institution": [
+            "Texas Materials Institute",
+            "The University of Texas at Austin",
+            "Department of Aerospace Engineering and Engineering Mechanics",
+            "The University of Texas at Austin"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Filippo",
+          "last_name": "Mangolini",
+          "institution": [
+            "Texas Materials Institute",
+            "The University of Texas at Austin",
+            "Walker Department of Mechanical Engineering",
+            "The University of Texas at Austin"
+          ],
+          "orcid": "0000-0003-3360-9122",
+          "texas_affiliation": true,
+          "db_researcher_id": 648
+        }
+      ],
+      "abstract": "Secondary Ion Mass Spectrometry (SIMS) is a powerful technique for investigating diffusion at and near material surfaces. It directly measures the intensity of secondary ions ejected upon ion beam bombardment of sample surfaces. In SIMS diffusion studies, three concentration proxies rather than intensities are often employed. Using the classical diffusion equation as the basis, we establish conditions under which each proxy is acceptable for extracting diffusivities. We demonstrate that these conditions depend on the temporal and spatial evolution of the intensity of the reference secondary ion. Further, these conditions may or may not be realized in experiments, regardless of the chemical potential landscape of the matrix. We advocate for reporting raw data as is, <i>i.e</i>., in terms of intensities of ejected ions."
+    },
+    "summary": "The analysis presents a novel critique of concentration proxies used in Secondary Ion Mass Spectrometry (SIMS) diffusion studies, identifying specific conditions under which these proxies may produce misleading results. By emphasizing the significance of raw intensity data for accurately determining diffusivities, the findings challenge existing practices in the field. This shift towards utilizing direct measurements could enhance the reliability of diffusion analyses in various material science applications."
+  },
+  {
+    "journal_name": "J. Phys. Chem. Letters",
+    "doi": "10.1021/acs.jpclett.5c03267",
+    "title": "Infrared Spectra of the Thymidine 13C2 and 13C4 Isotopes in H2O and D2O",
+    "link": "https://pubs.acs.org/doi/10.1021/acs.jpclett.5c03267?af=R",
+    "published_date": "2026-02-19",
+    "crossref": {
+      "access": true,
+      "doi": "10.1021/acs.jpclett.5c03267",
+      "title": "Infrared Spectra of the Thymidine\n                    <sup>13</sup>\n                    C2 and\n                    <sup>13</sup>\n                    C4 Isotopes in H\n                    <sub>2</sub>\n                    O and D\n                    <sub>2</sub>\n                    O",
+      "published_date": [
+        2026,
+        2,
+        4
+      ],
+      "authors": [
+        {
+          "first_name": "Haoche",
+          "last_name": "Peng",
+          "institution": [
+            "Wentworth Institute of Technology"
+          ],
+          "orcid": "0000-0002-6399-4255"
+        },
+        {
+          "first_name": "Zackery",
+          "last_name": "Ferneyhough",
+          "institution": [
+            "Department of Chemistry and Biochemistry",
+            "The University of Texas at Dallas"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Stefan",
+          "last_name": "Hilber",
+          "institution": [
+            "Organic Chemistry, University of Innsbruck (CCB), Innrain 80/82, 6020 Innsbruck, Austria"
+          ],
+          "orcid": "0000-0002-0856-5829"
+        },
+        {
+          "first_name": "Arya Mojahed",
+          "last_name": "Naghi",
+          "institution": [
+            "Department of Chemistry and Biochemistry, The University of Texas at Arlington, 700 Planetarium Place, Arlington, Texas 76019-0065, United States"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Charles P.",
+          "last_name": "Shelor",
+          "institution": [
+            "Department of Chemistry and Biochemistry, The University of Texas at Arlington, 700 Planetarium Place, Arlington, Texas 76019-0065, United States"
+          ],
+          "orcid": "0000-0002-2318-9411",
+          "texas_affiliation": true,
+          "db_researcher_id": 166
+        },
+        {
+          "first_name": "Christoph",
+          "last_name": "Kreutz",
+          "institution": [
+            "Organic Chemistry, University of Innsbruck (CCB), Innrain 80/82, 6020 Innsbruck, Austria"
+          ],
+          "orcid": "0000-0002-7018-9326"
+        },
+        {
+          "first_name": "Lu",
+          "last_name": "Wang",
+          "institution": [
+            "Department of Chemistry and Chemical Biology, Institute for Quantitative Biomedicine",
+            "Rutgers University"
+          ],
+          "orcid": "0000-0001-6230-1835"
+        },
+        {
+          "first_name": "Pavel",
+          "last_name": "Matousek",
+          "institution": [
+            "Central Laser Facility, Research Complex at Harwell",
+            "STFC Rutherford Appleton Laboratory"
+          ],
+          "orcid": "0000-0003-0912-5339"
+        },
+        {
+          "first_name": "Allison L.",
+          "last_name": "Stelling",
+          "institution": [
+            "Department of Chemistry and Biochemistry, The University of Texas at Arlington, 700 Planetarium Place, Arlington, Texas 76019-0065, United States"
+          ],
+          "orcid": "0000-0002-0368-0852",
+          "texas_affiliation": true
+        }
+      ],
+      "abstract": "Here we report the synthesis of two new <sup>13</sup>C thymidine (T) isotopes labeled at two key positions in its structure, C2\u2550O and C4\u2550O, and the first IR spectra of each T isotope in H<sub>2</sub>O and in D<sub>2</sub>O. Our experimental isotope shifts and normal mode calculations indicate some structurally sensitive modes may be more localized than previously thought, making them regiosensitive probes of thymidine's chemical environment. These results provide new physical insight into the normal modes of thymidine, and will guide future studies to determine how these structurally and environmentally sensitive probe vibrations are impacted by the duplex environment."
+    },
+    "summary": "Two new isotopes of thymidine have been synthesized and their infrared spectra recorded in H2O and D2O, revealing previously unobserved localization of vibrational modes. This finding suggests that certain modes can serve as sensitive probes for thymidine's chemical environment, challenging existing assumptions about mode behavior. The insights gained pave the way for further research into how thymidine's vibrations are influenced by its surrounding structure, which is crucial for understanding nucleic acid interactions."
+  },
+  {
+    "journal_name": "Chemistry - A European Journal",
+    "doi": "10.1002/chem.202503565",
+    "title": "It's a Gas: Bioconjugation With Vapor\u2010Phase Reagents",
+    "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202503565?af=R",
+    "published_date": "2026-02-21",
+    "crossref": {
+      "access": true,
+      "doi": "10.1002/chem.202503565",
+      "title": "It's a Gas: Bioconjugation With Vapor\u2010Phase Reagents",
+      "published_date": [
+        2026,
+        2,
+        21
+      ],
+      "authors": [
+        {
+          "first_name": "Yuxuan",
+          "last_name": "Ding",
+          "institution": [
+            "Department of Chemistry Rice University  Houston Texas USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Jun",
+          "last_name": "Ohata",
+          "institution": [
+            "Department of Chemistry North Carolina State University  Raleigh North Carolina USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Zachary T.",
+          "last_name": "Ball",
+          "institution": [
+            "Department of Chemistry Rice University  Houston Texas USA"
+          ],
+          "orcid": "0000-0002-8681-0789",
+          "texas_affiliation": true,
+          "db_researcher_id": 102
+        }
+      ],
+      "abstract": "Bioconjugation is a large field with many diverse goals, needs, and challenges, that requires a broad toolbox of fundamentally different synthetic approaches. As an emerging class of bioconjugation reagents, gas molecules bring new reactivity and selectivity concepts. Beyond these fundamental questions, gas-phase reagents may have unique advantages, such as access to porous material and structures, and diffusions/penetration differences in reaction in complex tissues or other contexts. This concept article examines vapor-phase reagents, as well as their reactivity and selectivity, for the modification of natural peptides and proteins."
+    },
+    "summary": "Gas-phase bioconjugation reagents represent a novel approach that enhances the reactivity and selectivity of modifications in peptides and proteins. These reagents offer unique advantages, including improved access to porous materials and enhanced diffusion within complex biological tissues. This advancement has the potential to revolutionize techniques in bioconjugation, making processes more efficient and effective for various scientific applications."
+  },
+  {
+    "journal_name": "RSC Sensors & Diagnostics",
+    "doi": "10.1039/D5SD00161G",
+    "title": "Reproducible single-molecule optofluidic-SERS analysis on nanostar-activated diatom biosilica capsules",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/SD/D5SD00161G",
+    "published_date": "2025-11-29",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5SD00161G",
+      "title": "Reproducible single-molecule optofluidic-SERS analysis on nanostar-activated diatom biosilica capsules",
+      "published_date": [
+        2026
+      ],
+      "authors": [
+        {
+          "first_name": "Subhavna",
+          "last_name": "Juneja",
+          "institution": [
+            "Department of Electrical and Computer Engineering, Baylor University, Waco, TX 76706, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Sudipta",
+          "last_name": "Biswas",
+          "institution": [
+            "Department of Electrical and Computer Engineering, Baylor University, Waco, TX 76706, USA"
+          ],
+          "orcid": "0000-0001-9974-4197",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Kang",
+          "last_name": "Rong",
+          "institution": [
+            "Department of Electrical and Computer Engineering, Baylor University, Waco, TX 76706, USA"
+          ],
+          "orcid": "0009-0001-2087-3517",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Alan X.",
+          "last_name": "Wang",
+          "institution": [
+            "Department of Electrical and Computer Engineering, Baylor University, Waco, TX 76706, USA"
+          ],
+          "orcid": "0000-0002-0553-498X",
+          "texas_affiliation": true
+        }
+      ],
+      "abstract": "<jats:p>Single-molecule (SM) analysis with surface-enhanced Raman scattering (SERS) based on plasmonic nanostars on diatom photonic crystal biosilica.</jats:p>"
+    },
+    "summary": "A novel approach using plasmonic nanostars on diatom biosilica enables reproducible single-molecule analysis through surface-enhanced Raman scattering (SERS). This advancement allows for highly sensitive detection at the single-molecule level, significantly improving analytical capabilities in various scientific fields. The innovative use of natural materials like diatoms highlights a sustainable method for enhancing optical sensing technologies."
+  },
+  {
+    "journal_name": "RSC Pharmaceutics",
+    "doi": "10.1039/D5PM00329F",
+    "title": "Redesigning valproic acid therapy in pregnancy: intranasal liposomes for targeted maternal treatment",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/PM/D5PM00329F",
+    "published_date": "2026-02-17",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5PM00329F",
+      "title": "Redesigning valproic acid therapy in pregnancy: intranasal liposomes for targeted maternal treatment",
+      "published_date": [
+        2026
+      ],
+      "authors": [
+        {
+          "first_name": "Bruna",
+          "last_name": "Corradetti",
+          "institution": [
+            "Center for Precision Environmental Health, Baylor College of Medicine, Houston, Texas, USA",
+            "Department of Medicine, Section Hematology/Oncology Baylor College of Medicine, Houston, Texas, USA"
+          ],
+          "orcid": "0000-0002-0345-4847",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Luigi C.",
+          "last_name": "Zangari",
+          "institution": [
+            "Department of Pharmacy and Biotechnology (FaBIT), University of Bologna, Bologna, Italy"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Francesco",
+          "last_name": "Mainardi",
+          "institution": [
+            "Department of Pharmacy and Biotechnology (FaBIT), University of Bologna, Bologna, Italy"
+          ],
+          "orcid": "0009-0001-6765-1225"
+        },
+        {
+          "first_name": "Tamara",
+          "last_name": "Pezzotta",
+          "institution": [
+            "Department of Pharmacy and Biotechnology (FaBIT), University of Bologna, Bologna, Italy"
+          ],
+          "orcid": "0009-0008-0660-9841"
+        },
+        {
+          "first_name": "Richard H.",
+          "last_name": "Finnell",
+          "institution": [
+            "Center for Precision Environmental Health, Baylor College of Medicine, Houston, Texas, USA",
+            "Departments of Molecular and Human Genetics, Molecular and Cellular Biology, and Medicine, Baylor College of Medicine, Houston, Texas, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Francesca",
+          "last_name": "Taraballi",
+          "institution": [
+            "Center for Musculoskeletal Regeneration, Houston Methodist Academic Institute, Houston, Texas, USA",
+            "Orthopedics and Sports Medicine, Houston Methodist Academic Institute, Houston, Texas, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        }
+      ],
+      "abstract": "<jats:p>                     Pregnancy-adapted VPA delivery: systemic dosing increases fetal exposure                     <jats:italic>via</jats:italic>                     placental transfer. Intranasal nano-encapsulated VPA targets the maternal brain, reducing systemic and fetal exposure while preserving seizure control and improving reproductive safety.                   </jats:p>"
+    },
+    "summary": "Intranasal liposomal formulations of valproic acid (VPA) represent a groundbreaking approach to delivering this medication during pregnancy, targeting the maternal brain while minimizing fetal exposure. This innovative method enhances seizure control and reproductive safety by reducing systemic drug distribution. The findings have significant implications for optimizing treatment strategies in pregnant individuals with epilepsy, highlighting the need for safer therapeutic options that protect both mother and child."
+  },
+  {
+    "journal_name": "RSC Organic Chemistry Frontiers",
+    "doi": "10.1039/D5QO01417D",
+    "title": "Radical reactivity of aryl thianthrenium salts",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/QO/D5QO01417D",
+    "published_date": "2025-12-18",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5QO01417D",
+      "title": "Radical reactivity of aryl thianthrenium salts",
+      "published_date": [
+        2026
+      ],
+      "authors": [
+        {
+          "first_name": "Ryan A.",
+          "last_name": "Pohorenec",
+          "institution": [
+            "Department of Chemistry, College of Arts and Sciences, Texas A&M University, College Station, TX 77843, USA"
+          ],
+          "orcid": "0000-0002-4758-650X",
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Shiqing",
+          "last_name": "Xu",
+          "institution": [
+            "Department of Chemistry, College of Arts and Sciences, Texas A&M University, College Station, TX 77843, USA",
+            "Department of Pharmaceutical Sciences, Irma Lerma Rangel College of Pharmacy, Texas A&M University, College Station, Texas 77843, USA"
+          ],
+          "orcid": "0000-0001-6260-9290",
+          "texas_affiliation": true,
+          "db_researcher_id": 744
+        }
+      ],
+      "abstract": "<jats:p>Aryl thianthrenium salts, accessed through highly selective arene thianthrenation, offer a versatile platform for generating aryl radicals under mild conditions, enabling streamlined C\u2013D, C\u2013C, and C\u2013heteroatom bond formation among diverse substrates.</jats:p>"
+    },
+    "summary": "Aryl thianthrenium salts represent a novel and efficient approach to generating aryl radicals under mild conditions. This method facilitates the formation of C\u2013D, C\u2013C, and C\u2013heteroatom bonds across a variety of substrates. The ability to streamline these reactions holds significant potential for advancing synthetic chemistry and expanding the toolbox for organic synthesis."
+  },
+  {
+    "journal_name": "RSC Inorganic Chemistry Frontiers",
+    "doi": "10.1039/D5QI02191J",
+    "title": "Isocyanide insertion reaction of a carborane-fused borirane and isocyanide affinity of the ring expansion products",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/QI/D5QI02191J",
+    "published_date": "2025-12-09",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5QI02191J",
+      "title": "Isocyanide insertion reaction of a carborane-fused borirane and isocyanide affinity of the ring expansion products",
+      "published_date": [
+        2026
+      ],
+      "authors": [
+        {
+          "first_name": "Libo",
+          "last_name": "Xiang",
+          "institution": [
+            "Institute for Inorganic Chemistry and Institute for Sustainable Chemistry & Catalysis with Boron, Julius-Maximilians-Universit\u00e4t W\u00fcrzburg, Am Hubland, 97074 W\u00fcrzburg, Germany"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Junyi",
+          "last_name": "Wang",
+          "institution": [
+            "Department of Chemistry and Biochemistry, Baylor University, Waco, Texas 76798, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Julius",
+          "last_name": "Bolch",
+          "institution": [
+            "Institute for Inorganic Chemistry and Institute for Sustainable Chemistry & Catalysis with Boron, Julius-Maximilians-Universit\u00e4t W\u00fcrzburg, Am Hubland, 97074 W\u00fcrzburg, Germany"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Alexander",
+          "last_name": "Matler",
+          "institution": [
+            "Institute for Inorganic Chemistry and Institute for Sustainable Chemistry & Catalysis with Boron, Julius-Maximilians-Universit\u00e4t W\u00fcrzburg, Am Hubland, 97074 W\u00fcrzburg, Germany"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Qing",
+          "last_name": "Ye",
+          "institution": [
+            "Institute for Inorganic Chemistry and Institute for Sustainable Chemistry & Catalysis with Boron, Julius-Maximilians-Universit\u00e4t W\u00fcrzburg, Am Hubland, 97074 W\u00fcrzburg, Germany"
+          ],
+          "orcid": "0000-0002-7238-0407"
+        }
+      ],
+      "abstract": "<jats:p>                     The reactions of the carborane-fused borirane (B                     <jats:sub>10</jats:sub>                     H                     <jats:sub>10</jats:sub>                     C                     <jats:sub>2</jats:sub>                     )BN(SiMe                     <jats:sub>3</jats:sub>                     )                     <jats:sub>2</jats:sub>                     (1) with isocyanides proceed, for the first time, with a clearly defined sequence of coordination and insertion steps.                   </jats:p>"
+    },
+    "summary": "A novel reaction mode has been identified where a carborane-fused borirane complex interacts sequentially with isocyanides, revealing a defined coordination and insertion mechanism. The study uncovers important insights into the chemical behavior of borirane derivatives and their potential applications in organic synthesis. This advancement in understanding isocyanide affinity could pave the way for new methodologies in polymer science and materials chemistry."
+  },
+  {
+    "journal_name": "RSC Environmental Science: Nano",
+    "doi": "10.1039/D5EN00886G",
+    "title": "Interfacial interactions between PMMA nanoplastics and a model globular protein: towards a molecular understanding of nanoplastic-driven biological dyshomeostasis",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/EN/D5EN00886G",
+    "published_date": "2025-12-11",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5EN00886G",
+      "title": "Interfacial interactions between PMMA nanoplastics and a model globular protein: towards a molecular understanding of nanoplastic-driven biological dyshomeostasis",
+      "published_date": [
+        2026
+      ],
+      "authors": [
+        {
+          "first_name": "Afroz",
+          "last_name": "Karim",
+          "institution": [
+            "Department of Chemistry and Biochemistry, The University of Texas at El Paso, 500 W. University Ave., El Paso, TX 79968, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Ummy Habiba",
+          "last_name": "Sweety",
+          "institution": [
+            "Environmental Science and Engineering, The University of Texas at El Paso, El Paso, TX, 79968, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Daisy L.",
+          "last_name": "Wilson",
+          "institution": [
+            "Environmental Science and Engineering, The University of Texas at El Paso, El Paso, TX, 79968, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Mahesh",
+          "last_name": "Narayan",
+          "institution": [
+            "Department of Chemistry and Biochemistry, The University of Texas at El Paso, 500 W. University Ave., El Paso, TX 79968, USA"
+          ],
+          "orcid": "0000-0002-2194-5228",
+          "texas_affiliation": true,
+          "db_researcher_id": 178
+        }
+      ],
+      "abstract": "<jats:p>The ingestion of poly(methyl methacrylate) (PMMA) nanoplastics (NPs) is associated with numerous health issues.</jats:p>"
+    },
+    "summary": "New insights reveal the distinctive interfacial interactions between PMMA nanoplastics and a model globular protein, shedding light on the mechanisms driving biological imbalances due to nanoplastic exposure. The study uncovers how these nanoplastics can alter protein behavior, potentially leading to significant health consequences. Understanding these interactions is crucial for developing strategies to mitigate the risks posed by nanoplastic pollution to human health."
+  },
+  {
+    "journal_name": "RSC Energy Advances",
+    "doi": "10.1039/D5YA00182J",
+    "title": "Heterogeneous aging in a multi-cell lithium-ion battery system driven by manufacturing-induced variability in electrode microstructure: a physics-based simulation study",
+    "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2026/YA/D5YA00182J",
+    "published_date": "2025-11-20",
+    "crossref": {
+      "access": true,
+      "doi": "10.1039/D5YA00182J",
+      "title": "Heterogeneous aging in a multi-cell lithium-ion battery system driven by manufacturing-induced variability in electrode microstructure: a physics-based simulation study",
+      "published_date": [
+        2026
+      ],
+      "authors": [
+        {
+          "first_name": "Parisa Akhtari",
+          "last_name": "Zavareh",
+          "institution": [
+            "Department of Mechanical Engineering, The University of Alabama, Tuscasloosa, USA"
+          ],
+          "orcid": null
+        },
+        {
+          "first_name": "Aditya Naveen",
+          "last_name": "Matam",
+          "institution": [
+            "Department of Electrical and Computer Engineering, The University of Texas at Austin, USA"
+          ],
+          "orcid": null,
+          "texas_affiliation": true
+        },
+        {
+          "first_name": "Krishna",
+          "last_name": "Shah",
+          "institution": [
+            "Department of Mechanical Engineering, The University of Alabama, Tuscasloosa, USA"
+          ],
+          "orcid": "0000-0002-7802-6361"
+        }
+      ],
+      "abstract": "<jats:p>Microstructural variations across cells in a pack, specifically in terms of active material particle size, can cause uneven aging of the cells, with cells having smaller particles showing faster capacity loss due to accelerated SEI growth.</jats:p>"
+    },
+    "summary": "A novel simulation study reveals that microstructural differences in lithium-ion battery electrodes, particularly particle size, lead to heterogeneous aging across cells in a battery pack. Cells with smaller particle sizes experience accelerated capacity loss due to increased solid electrolyte interphase (SEI) growth. Understanding these variations is crucial for improving battery lifespan and efficiency in energy storage technologies."
   }
 ]
