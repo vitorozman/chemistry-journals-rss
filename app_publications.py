@@ -73,7 +73,7 @@ def create_pretty_print(publication):
     # Streamlit display with compact spacing
     st.markdown(citation, unsafe_allow_html=True)
     if summary and summary.strip():  # Check for both existence and non-empty content
-        st.markdown(f"<sub style='margin-top: -0.5rem; display: block;'>{summary}</sub>", unsafe_allow_html=True)
+        st.markdown(f"<p style='font-size:0.95rem; color:#4b5563; margin-top:-0.5rem; margin-bottom:1.5rem; line-height:1.5;'>{summary}</p>", unsafe_allow_html=True)
 
 def load_publications():
     """Load publications from JSON file."""
