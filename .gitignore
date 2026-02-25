@@ -16,6 +16,8 @@ data/publications_display_fixed.json
 data/publications_display_oldv2.json
 data/publications_v2.json
 
+data_testing/
+
 # Files not needed for app_publications.py
 data/publications_v1.json
 data/filtered_publications.json
