@@ -236,6 +236,62 @@ ol.pub-list li a:hover { text-decoration: underline; }
     font-size: 0.85rem;
     color: #6b7280;
     margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+/* ── info tooltip ── */
+.info-tooltip {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    cursor: help;
+    margin-left: 6px;
+    vertical-align: middle;
+}
+.info-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #6b7280;
+    color: #ffffff;
+    font-size: 0.65rem;
+    font-weight: 700;
+    font-style: italic;
+    font-family: Georgia, serif;
+    line-height: 1;
+    flex-shrink: 0;
+    transition: background 0.15s;
+}
+.info-tooltip:hover .info-icon {
+    background: #2563eb;
+}
+.info-tooltip .tooltip-text {
+    visibility: hidden;
+    opacity: 0;
+    width: 320px;
+    background: #1f2937;
+    color: #f9fafb;
+    font-size: 0.78rem;
+    line-height: 1.5;
+    border-radius: 6px;
+    padding: 8px 12px;
+    position: absolute;
+    left: 1.4rem;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 100;
+    transition: opacity 0.15s;
+    pointer-events: none;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+.info-tooltip:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
 }
 
 /* ── hide Streamlit branding ── */
@@ -277,11 +333,22 @@ def main() -> None:
     # ── Summary
     total_researchers = len(filtered)
     total_insts = len(grouped)
+    tooltip_text = (
+        "Researchers listed below have a Texas affiliation, are not currently in the database, "
+        "and have at least one publication where:<br>"
+        "<ul style='margin:4px 0 0 0;padding-left:1.1rem;'>"
+        "<li>They are listed as <b>first or last author</b></li>"
+        "<li>Their <b>full name</b> is included (for identification purposes)</li>"
+        "<li>It was published in a <b>top-rated chemistry journal</b></li>"
+        "</ul>"
+    )
     st.markdown(
         f'<div class="summary-bar">'
         f'<b>{total_researchers}</b> researcher{"s" if total_researchers != 1 else ""} · '
         f'<b>{total_insts}</b> institution{"s" if total_insts != 1 else ""}'
-        f'<br><span style="font-size:0.8rem;color:#9ca3af;">Texas researchers found in author list of current researchers in db which could be possible candidates for the investigation</span>'
+        f'<span class="info-tooltip"><span class="info-icon">i</span>'
+        f'<span class="tooltip-text">{tooltip_text}</span>'
+        f'</span>'
         f'</div>',
         unsafe_allow_html=True,
     )
