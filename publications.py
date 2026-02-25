@@ -46,7 +46,11 @@ class Publications:
         'University of Texas M. D. Anderson Cancer Center',
         'Lamar University',
         "Texas Woman's University",
-        'University of Texas Health Science Center at Houston'
+        'University of Texas Health Science Center at Houston',
+        'University of Texas MD Anderson Cancer Center', # new
+        "Texas Children's Hospital", # new
+        'University of Texas Health San Antonio', # new
+        'American Heart Association Tobacco Regulation and Addiction Center', # new
     ]
     
     @staticmethod
@@ -139,37 +143,15 @@ class Publications:
             return publication
         return None
 
-def fix_publications():
-    from journals import Journal
-    publications = Publications.load_from_json("data/publications_display.json") or []
-    # publications_filter = Publications.load_from_json("data/filtered_publications.json") or []
-    for pub in publications:
-        print(pub['crossref'].get('published_date'), pub.get('published_date'))
-        p = Journal.get_publication_crossref(pub['doi'])
-        p_date = p['published_date']
-        if len(p_date) < 3:
-            rss_date = pub.get('published_date', '')
-            p_date = [int(x) for x in rss_date.split('-')]
-            print(f"Using RSS date for {pub['doi']}: {p_date}")
-        print(pub['doi'], p_date)
-        pub['crossref']['published_date'] = p_date
-        
-    save_path = "data/publications_display_fixed.json"
-    with open(save_path, "w") as f:
-        json.dump(publications, f, indent=2)
 
-# fix_publications()
 
-# Publications.filter_publications()
-# Publications.generate_summaries_for_publications()
-
-# print(len(Publications.INSTITUTIONS_TEXAS))
-
+########################################################
+# Fix Abstracts
 
 def fix_abstracts():
     from journals import Journal
     from llm_tools import generate_summary
-    publications = Publications.load_from_json("data/publications_display_fixed.json") or []
+    publications = Publications.load_from_json("data/publications_display.json") or []
     for pub in publications:
         abstract = pub.get('crossref', {}).get('abstract')
         summary = pub.get('summary')
