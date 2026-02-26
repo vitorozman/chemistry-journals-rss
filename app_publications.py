@@ -167,7 +167,7 @@ journals_list = list(Journal.JOURNAL_FEEDS.keys())
 # Create a properly formatted list for the help tooltip
 journals_help_text = f"Journals monitored ({len(journals_list)}):\n\n" + "\n\n".join([f"• {journal}" for journal in sorted(journals_list)])
 
-st.markdown(f"**Authors from Texas authored {total_pubs} publications in the top-rated chemistry journals.**", help=journals_help_text)
+st.markdown(f"**Authors from Texas authored {total_pubs} selected publications in the top-rated chemistry journals.**", help=journals_help_text)
 st.markdown("---")
 
 
