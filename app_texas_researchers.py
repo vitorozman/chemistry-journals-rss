@@ -340,7 +340,7 @@ def main() -> None:
         "<li>Publication was published in last <b>4 years</b></li>"
         "<li>They are listed as <b>last author</b></li>"
         "<li>Their <b>full name</b> is included (for identification purposes)</li>"
-        "<li>It was published in a <b>top-rated chemistry journal</b></li>"
+        "<li>It was published in a <b>selected chemistry journal</b></li>"
         "</ul>"
     )
     st.markdown(
