@@ -162,7 +162,7 @@ sorted_publications = parse_and_sort_publications(publications)
 
 # Display statistics
 total_pubs = len(sorted_publications)
-journals_list = list(Journal.JOURNAL_FEEDS.keys())
+journals_list = list(Journal.get_journal_feeds().keys())
 
 # Create a properly formatted list for the help tooltip
 journals_help_text = f"Journals monitored ({len(journals_list)}):\n\n" + "\n\n".join([f"• {journal}" for journal in sorted(journals_list)])

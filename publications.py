@@ -149,7 +149,7 @@ class Publications:
 # Fix Abstracts
 
 def fix_abstracts():
-    from journals import Journal
+    from journals import Journal, Publication
     from llm_tools import generate_summary
     publications = Publications.load_from_json("data/publications_display.json") or []
     for pub in publications:
@@ -157,7 +157,7 @@ def fix_abstracts():
         summary = pub.get('summary')
         if not abstract:
             print(pub.get('doi'))
-            p = Journal.get_publication_pubmed_from_doi(pub.get('doi'))
+            p = Publication.from_pubmed_doi(pub.get('doi'))
             if p and p.get('abstract'):
                 print(p.get('abstract'))
                 abstract = p.get('abstract')
@@ -171,3 +171,8 @@ def fix_abstracts():
 
 # fix_abstracts()
 
+
+
+if __name__ == "__main__":
+    Publications.filter_publications()
+    Publications.generate_summaries_for_publications()
