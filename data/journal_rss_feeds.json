@@ -1,0 +1,972 @@
+[
+  {
+    "name": "ACS Central Science",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=acscii&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/acscii"
+  },
+  {
+    "name": "ACS Omega",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=acsodf&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/acsodf"
+  },
+  {
+    "name": "ACS Nano",
+    "rss_link": "http://pubs.acs.org/action/showFeed?jc=ancac3&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/ancac3"
+  },
+  {
+    "name": "ACS Catalysis",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=accacs&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/accacs"
+  },
+  {
+    "name": "ACS Chemical Biology",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=acbcct&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/acbcct"
+  },
+  {
+    "name": "ACS Medicinal Chemistry Letters",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=amclct&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/amclct"
+  },
+  {
+    "name": "Chemical Reviews",
+    "rss_link": "http://pubs.acs.org/action/showFeed?jc=chreay&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/chreay"
+  },
+  {
+    "name": "Journal of the American Chemical Society",
+    "rss_link": "http://pubs.acs.org/action/showFeed?jc=jacsat&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/jacsat"
+  },
+  {
+    "name": "Accounts of Chemical Research",
+    "rss_link": "http://pubs.acs.org/action/showFeed?jc=achre4&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/achre4"
+  },
+  {
+    "name": "Organic Letters",
+    "rss_link": "http://pubs.acs.org/action/showFeed?jc=orlef7&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/orlef7"
+  },
+  {
+    "name": "Inorganic Chemistry",
+    "rss_link": "http://pubs.acs.org/action/showFeed?jc=inocaj&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/inocaj"
+  },
+  {
+    "name": "Analytical Chemistry",
+    "rss_link": "http://pubs.acs.org/action/showFeed?jc=ancham&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/ancham"
+  },
+  {
+    "name": "The Journal of Physical Chemistry Letters",
+    "rss_link": "http://pubs.acs.org/action/showFeed?jc=jpclcd&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/jpclcd"
+  },
+  {
+    "name": "Biochemistry",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=bichaw&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/bichaw"
+  },
+  {
+    "name": "Journal of Proteome Research",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=jprobs&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/jprobs"
+  },
+  {
+    "name": "Journal of Medicinal Chemistry",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=jmcmar&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/jmcmar"
+  },
+  {
+    "name": "Langmuir",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=langd5&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/langd5"
+  },
+  {
+    "name": "Macromolecules",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=mamobx&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/mamobx"
+  },
+  {
+    "name": "The Journal of Organic Chemistry",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=joceah&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/joceah"
+  },
+  {
+    "name": "The Journal of Physical Chemistry A",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=jpcafh&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/jpcafh"
+  },
+  {
+    "name": "The Journal of Physical Chemistry B",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=jpcbfk&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/jpcbfk"
+  },
+  {
+    "name": "The Journal of Physical Chemistry C",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=jpccck&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/jpccck"
+  },
+  {
+    "name": "Journal of Chemical Theory and Computation",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=jctcce&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/jctcce"
+  },
+  {
+    "name": "ACS Synthetic Biology",
+    "rss_link": "https://pubs.acs.org/action/showFeed?jc=asbcd6&type=etoc&feed=rss",
+    "url": "https://pubs.acs.org/journal/asbcd6"
+  },
+  {
+    "name": "Accounts of Materials Research",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=amrcda",
+    "url": "https://pubs.acs.org/journal/amrcda"
+  },
+  {
+    "name": "ACS Applied Bio Materials",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aabmcb",
+    "url": "https://pubs.acs.org/journal/aabmcb"
+  },
+  {
+    "name": "ACS Biomaterials Science & Engineering",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=abseba",
+    "url": "https://pubs.acs.org/journal/abseba"
+  },
+  {
+    "name": "ACS Chemical Neuroscience",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=acncdm",
+    "url": "https://pubs.acs.org/journal/acncdm"
+  },
+  {
+    "name": "ACS Macro Letters",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=amlccd",
+    "url": "https://pubs.acs.org/journal/amlccd"
+  },
+  {
+    "name": "Bioconjugate Chemistry",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=bcches",
+    "url": "https://pubs.acs.org/journal/bcches"
+  },
+  {
+    "name": "Biomacromolecules",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=bomaf6",
+    "url": "https://pubs.acs.org/journal/bomaf6"
+  },
+  {
+    "name": "Chemical Research in Toxicology",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=crtoec",
+    "url": "https://pubs.acs.org/journal/crtoec"
+  },
+  {
+    "name": "Journal of Natural Products",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jnprdf",
+    "url": "https://pubs.acs.org/journal/jnprdf"
+  },
+  {
+    "name": "Journal of Chemical & Engineering Data",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jceaax",
+    "url": "https://pubs.acs.org/journal/jceaax"
+  },
+  {
+    "name": "Journal of Chemical Information and Modeling",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jcisd8",
+    "url": "https://pubs.acs.org/journal/jcisd8"
+  },
+  {
+    "name": "Journal of the American Society for Mass Spectrometry",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jamsef",
+    "url": "https://pubs.acs.org/journal/jamsef"
+  },
+  {
+    "name": "Molecular Pharmaceutics",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=mpohbp",
+    "url": "https://pubs.acs.org/journal/mpohbp"
+  },
+  {
+    "name": "Nano Letters",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=nalefd",
+    "url": "https://pubs.acs.org/journal/nalefd"
+  },
+  {
+    "name": "Organic Process Research & Development",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=oprdfk",
+    "url": "https://pubs.acs.org/journal/oprdfk"
+  },
+  {
+    "name": "Organometallics",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=orgnd7",
+    "url": "https://pubs.acs.org/journal/orgnd7"
+  },
+  {
+    "name": "ACS Sustainable Chemistry & Engineering",
+    "rss_link": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=ascecg",
+    "url": "https://pubs.acs.org/journal/ascecg"
+  },
+  {
+    "name": "Nature",
+    "rss_link": "https://www.nature.com/nature.rss",
+    "url": "https://www.nature.com/nature"
+  },
+  {
+    "name": "Nature Chemistry",
+    "rss_link": "https://www.nature.com/nchem.rss",
+    "url": "https://www.nature.com/nchem"
+  },
+  {
+    "name": "Nature Reviews Chemistry",
+    "rss_link": "https://www.nature.com/natrevchem.rss",
+    "url": "https://www.nature.com/natrevchem"
+  },
+  {
+    "name": "Nature Communications",
+    "rss_link": "https://www.nature.com/ncomms.rss",
+    "url": "https://www.nature.com/ncomms"
+  },
+  {
+    "name": "Nature Energy",
+    "rss_link": "https://www.nature.com/nenergy.rss",
+    "url": "https://www.nature.com/nenergy"
+  },
+  {
+    "name": "Nature Methods",
+    "rss_link": "https://www.nature.com/nmeth.rss",
+    "url": "https://www.nature.com/nmeth"
+  },
+  {
+    "name": "Nature Biotechnology",
+    "rss_link": "https://www.nature.com/nbt.rss",
+    "url": "https://www.nature.com/nbt"
+  },
+  {
+    "name": "Nature Chemical Biology",
+    "rss_link": "https://www.nature.com/nchembio.rss",
+    "url": "https://www.nature.com/nchembio"
+  },
+  {
+    "name": "Nature Structural & Molecular Biology",
+    "rss_link": "https://www.nature.com/nsmb.rss",
+    "url": "https://www.nature.com/nsmb"
+  },
+  {
+    "name": "Nature Protocols",
+    "rss_link": "https://www.nature.com/nprot.rss",
+    "url": "https://www.nature.com/nprot"
+  },
+  {
+    "name": "Nature Materials",
+    "rss_link": "https://www.nature.com/nmat.rss",
+    "url": "https://www.nature.com/nmat"
+  },
+  {
+    "name": "Nature Nanotechnology",
+    "rss_link": "https://www.nature.com/nnano.rss",
+    "url": "https://www.nature.com/nnano"
+  },
+  {
+    "name": "Nature Catalysis",
+    "rss_link": "https://www.nature.com/natcatal.rss",
+    "url": "https://www.nature.com/natcatal"
+  },
+  {
+    "name": "Nature Biomedical Engineering",
+    "rss_link": "https://www.nature.com/natbiomedeng.rss",
+    "url": "https://www.nature.com/natbiomedeng"
+  },
+  {
+    "name": "Nature Cancer",
+    "rss_link": "https://www.nature.com/natcancer.rss",
+    "url": "https://www.nature.com/natcancer"
+  },
+  {
+    "name": "Nature Computational Science",
+    "rss_link": "https://www.nature.com/natcomputsci.rss",
+    "url": "https://www.nature.com/natcomputsci"
+  },
+  {
+    "name": "Nature Food",
+    "rss_link": "https://www.nature.com/natfood.rss",
+    "url": "https://www.nature.com/natfood"
+  },
+  {
+    "name": "Nature Genetics",
+    "rss_link": "https://www.nature.com/ng.rss",
+    "url": "https://www.nature.com/ng"
+  },
+  {
+    "name": "Nature Medicine",
+    "rss_link": "https://www.nature.com/nm.rss",
+    "url": "https://www.nature.com/nm"
+  },
+  {
+    "name": "Nature Metabolism",
+    "rss_link": "https://www.nature.com/natmetab.rss",
+    "url": "https://www.nature.com/natmetab"
+  },
+  {
+    "name": "Nature Plants",
+    "rss_link": "https://www.nature.com/nplants.rss",
+    "url": "https://www.nature.com/nplants"
+  },
+  {
+    "name": "Nature Sustainability",
+    "rss_link": "https://www.nature.com/natsustain.rss",
+    "url": "https://www.nature.com/natsustain"
+  },
+  {
+    "name": "Nature Synthesis",
+    "rss_link": "https://www.nature.com/natsynth.rss",
+    "url": "https://www.nature.com/natsynth"
+  },
+  {
+    "name": "Nature Water",
+    "rss_link": "https://www.nature.com/natwater.rss",
+    "url": "https://www.nature.com/natwater"
+  },
+  {
+    "name": "Communications Chemistry",
+    "rss_link": "https://www.nature.com/commschem.rss",
+    "url": "https://www.nature.com/commschem"
+  },
+  {
+    "name": "Communications Biology",
+    "rss_link": "https://www.nature.com/commsbio.rss",
+    "url": "https://www.nature.com/commsbio"
+  },
+  {
+    "name": "Communications Materials",
+    "rss_link": "https://www.nature.com/commsmat.rss",
+    "url": "https://www.nature.com/commsmat"
+  },
+  {
+    "name": "Nature Reviews Bioengineering",
+    "rss_link": "https://www.nature.com/natrevbioeng.rss",
+    "url": "https://www.nature.com/natrevbioeng"
+  },
+  {
+    "name": "Nature Reviews Cancer",
+    "rss_link": "https://www.nature.com/nrc.rss",
+    "url": "https://www.nature.com/nrc"
+  },
+  {
+    "name": "Nature Reviews Disease Primers",
+    "rss_link": "https://www.nature.com/nrdp.rss",
+    "url": "https://www.nature.com/nrdp"
+  },
+  {
+    "name": "Nature Reviews Drug Discovery",
+    "rss_link": "https://www.nature.com/nrd.rss",
+    "url": "https://www.nature.com/nrd"
+  },
+  {
+    "name": "Nature Reviews Genetics",
+    "rss_link": "https://www.nature.com/nrg.rss",
+    "url": "https://www.nature.com/nrg"
+  },
+  {
+    "name": "Nature Reviews Materials",
+    "rss_link": "https://www.nature.com/natrevmats.rss",
+    "url": "https://www.nature.com/natrevmats"
+  },
+  {
+    "name": "Nature Reviews Methods Primers",
+    "rss_link": "https://www.nature.com/nrmp.rss",
+    "url": "https://www.nature.com/nrmp"
+  },
+  {
+    "name": "Nature Reviews Microbiology",
+    "rss_link": "https://www.nature.com/nrmicro.rss",
+    "url": "https://www.nature.com/nrmicro"
+  },
+  {
+    "name": "Nature Reviews Molecular Cell Biology",
+    "rss_link": "https://www.nature.com/nrm.rss",
+    "url": "https://www.nature.com/nrm"
+  },
+  {
+    "name": "Nature Chemical Engineering",
+    "rss_link": "https://www.nature.com/natchemeng.rss",
+    "url": "https://www.nature.com/natchemeng"
+  },
+  {
+    "name": "Nature Reviews Physics",
+    "rss_link": "https://www.nature.com/natrevphys.rss",
+    "url": "https://www.nature.com/natrevphys"
+  },
+  {
+    "name": "Nature Immunology",
+    "rss_link": "https://www.nature.com/ni.rss",
+    "url": "https://www.nature.com/ni"
+  },
+  {
+    "name": "Nature Microbiology",
+    "rss_link": "https://www.nature.com/nmicrobiol.rss",
+    "url": "https://www.nature.com/nmicrobiol"
+  },
+  {
+    "name": "Nature Neuroscience",
+    "rss_link": "https://www.nature.com/neuro.rss",
+    "url": "https://www.nature.com/neuro"
+  },
+  {
+    "name": "Nature Reviews Earth & Environment",
+    "rss_link": "https://www.nature.com/natrevearthenviron.rss",
+    "url": "https://www.nature.com/natrevearthenviron"
+  },
+  {
+    "name": "Nature Reviews Endocrinology",
+    "rss_link": "https://www.nature.com/nrendo.rss",
+    "url": "https://www.nature.com/nrendo"
+  },
+  {
+    "name": "Nature Reviews Gastroenterology & Hepatology",
+    "rss_link": "https://www.nature.com/nrgastro.rss",
+    "url": "https://www.nature.com/nrgastro"
+  },
+  {
+    "name": "Nature Reviews Immunology",
+    "rss_link": "https://www.nature.com/nri.rss",
+    "url": "https://www.nature.com/nri"
+  },
+  {
+    "name": "Nature Reviews Nephrology",
+    "rss_link": "https://www.nature.com/nrneph.rss",
+    "url": "https://www.nature.com/nrneph"
+  },
+  {
+    "name": "Nature Reviews Neurology",
+    "rss_link": "https://www.nature.com/nrneurol.rss",
+    "url": "https://www.nature.com/nrneurol"
+  },
+  {
+    "name": "Nature Reviews Neuroscience",
+    "rss_link": "https://www.nature.com/nrn.rss",
+    "url": "https://www.nature.com/nrn"
+  },
+  {
+    "name": "Nature Reviews Rheumatology",
+    "rss_link": "https://www.nature.com/nrrheum.rss",
+    "url": "https://www.nature.com/nrrheum"
+  },
+  {
+    "name": "Nature Reviews Urology",
+    "rss_link": "https://www.nature.com/nrurol.rss",
+    "url": "https://www.nature.com/nrurol"
+  },
+  {
+    "name": "Nature Reviews Clinical Oncology",
+    "rss_link": "https://www.nature.com/nrclinonc.rss",
+    "url": "https://www.nature.com/nrclinonc"
+  },
+  {
+    "name": "Neuropsychopharmacology",
+    "rss_link": "https://www.nature.com/npp.rss",
+    "url": "https://www.nature.com/npp"
+  },
+  {
+    "name": "NPG Asia Materials",
+    "rss_link": "https://www.nature.com/am.rss",
+    "url": "https://www.nature.com/am"
+  },
+  {
+    "name": "Chemical Science",
+    "rss_link": "http://feeds.rsc.org/rss/sc",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/sc"
+  },
+  {
+    "name": "Chemical Communications",
+    "rss_link": "http://feeds.rsc.org/rss/cc",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/cc"
+  },
+  {
+    "name": "Analyst",
+    "rss_link": "http://feeds.rsc.org/rss/an",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/an"
+  },
+  {
+    "name": "Analytical Methods",
+    "rss_link": "http://feeds.rsc.org/rss/ay",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ay"
+  },
+  {
+    "name": "Catalysis Science & Technology",
+    "rss_link": "http://feeds.rsc.org/rss/cy",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/cy"
+  },
+  {
+    "name": "Chemical Society Reviews",
+    "rss_link": "http://feeds.rsc.org/rss/CS",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/cs"
+  },
+  {
+    "name": "CrystEngComm",
+    "rss_link": "http://feeds.rsc.org/rss/CE",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ce"
+  },
+  {
+    "name": "Digital Discovery",
+    "rss_link": "http://feeds.rsc.org/rss/dd",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/dd"
+  },
+  {
+    "name": "Sustainable Food Technology",
+    "rss_link": "http://feeds.rsc.org/rss/fb",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/fb"
+  },
+  {
+    "name": "Sustainable Energy & Fuels",
+    "rss_link": "http://feeds.rsc.org/rss/se",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/se"
+  },
+  {
+    "name": "Soft Matter",
+    "rss_link": "http://feeds.rsc.org/rss/SM",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/sm"
+  },
+  {
+    "name": "Sensors & Diagnostics",
+    "rss_link": "http://feeds.rsc.org/rss/sd",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/sd"
+  },
+  {
+    "name": "RSC Sustainability",
+    "rss_link": "http://feeds.rsc.org/rss/su",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/su"
+  },
+  {
+    "name": "RSC Pharmaceutics",
+    "rss_link": "http://feeds.rsc.org/rss/pm",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/pm"
+  },
+  {
+    "name": "RSC Medicinal Chemistry",
+    "rss_link": "http://feeds.rsc.org/rss/md",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/md"
+  },
+  {
+    "name": "RSC Chemical Biology",
+    "rss_link": "http://feeds.rsc.org/rss/cb",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/cb"
+  },
+  {
+    "name": "RSC Applied Polymers",
+    "rss_link": "http://feeds.rsc.org/rss/lp",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/lp"
+  },
+  {
+    "name": "RSC Applied Interfaces",
+    "rss_link": "http://feeds.rsc.org/rss/lf",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/lf"
+  },
+  {
+    "name": "RSC Advances",
+    "rss_link": "http://feeds.rsc.org/rss/ra",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ra"
+  },
+  {
+    "name": "Reaction Chemistry & Engineering",
+    "rss_link": "http://feeds.rsc.org/rss/re",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/re"
+  },
+  {
+    "name": "Polymer Chemistry",
+    "rss_link": "http://feeds.rsc.org/rss/py",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/py"
+  },
+  {
+    "name": "Physical Chemistry Chemical Physics",
+    "rss_link": "http://feeds.rsc.org/rss/CP",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/cp"
+  },
+  {
+    "name": "Organic Chemistry Frontiers",
+    "rss_link": "http://feeds.rsc.org/rss/qo",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/qo"
+  },
+  {
+    "name": "Organic & Biomolecular Chemistry",
+    "rss_link": "http://feeds.rsc.org/rss/OB",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ob"
+  },
+  {
+    "name": "New Journal of Chemistry",
+    "rss_link": "http://feeds.rsc.org/rss/NJ",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/nj"
+  },
+  {
+    "name": "Natural Product Reports",
+    "rss_link": "http://feeds.rsc.org/rss/NP",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/np"
+  },
+  {
+    "name": "Nanoscale Advances",
+    "rss_link": "http://feeds.rsc.org/rss/na",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/na"
+  },
+  {
+    "name": "Nanoscale",
+    "rss_link": "http://feeds.rsc.org/rss/NR",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/nr"
+  },
+  {
+    "name": "Molecular Systems Design & Engineering",
+    "rss_link": "http://feeds.rsc.org/rss/me",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/me"
+  },
+  {
+    "name": "Materials Horizons",
+    "rss_link": "http://feeds.rsc.org/rss/mh",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/mh"
+  },
+  {
+    "name": "Materials Chemistry Frontiers",
+    "rss_link": "http://feeds.rsc.org/rss/qm",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/qm"
+  },
+  {
+    "name": "Materials Advances",
+    "rss_link": "http://feeds.rsc.org/rss/ma",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ma"
+  },
+  {
+    "name": "Journal of Materials Chemistry C",
+    "rss_link": "http://feeds.rsc.org/rss/tc",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/tc"
+  },
+  {
+    "name": "Journal of Materials Chemistry B",
+    "rss_link": "http://feeds.rsc.org/rss/tb",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/tb"
+  },
+  {
+    "name": "Journal of Materials Chemistry A",
+    "rss_link": "http://feeds.rsc.org/rss/ta",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ta"
+  },
+  {
+    "name": "Journal of Analytical Atomic Spectrometry",
+    "rss_link": "http://feeds.rsc.org/rss/ja",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ja"
+  },
+  {
+    "name": "Inorganic Chemistry Frontiers",
+    "rss_link": "http://feeds.rsc.org/rss/qi",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/qi"
+  },
+  {
+    "name": "Industrial Chemistry & Materials",
+    "rss_link": "http://feeds.rsc.org/rss/im",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/im"
+  },
+  {
+    "name": "Environmental Science: Water Research & Technology",
+    "rss_link": "http://feeds.rsc.org/rss/ew",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ew"
+  },
+  {
+    "name": "Environmental Science: Processes & Impacts",
+    "rss_link": "http://feeds.rsc.org/rss/em",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/em"
+  },
+  {
+    "name": "Environmental Science: Nano",
+    "rss_link": "http://feeds.rsc.org/rss/en",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/en"
+  },
+  {
+    "name": "Environmental Science: Atmospheres",
+    "rss_link": "http://feeds.rsc.org/rss/ea",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ea"
+  },
+  {
+    "name": "Environmental Science: Advances",
+    "rss_link": "http://feeds.rsc.org/rss/va",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/va"
+  },
+  {
+    "name": "Energy Advances",
+    "rss_link": "http://feeds.rsc.org/rss/ya",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ya"
+  },
+  {
+    "name": "Energy & Environmental Science",
+    "rss_link": "http://feeds.rsc.org/rss/EE",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ee"
+  },
+  {
+    "name": "EES Solar",
+    "rss_link": "http://feeds.rsc.org/rss/el",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/el"
+  },
+  {
+    "name": "EES Catalysis",
+    "rss_link": "http://feeds.rsc.org/rss/ey",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/ey"
+  },
+  {
+    "name": "EES Batteries",
+    "rss_link": "http://feeds.rsc.org/rss/eb",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/eb"
+  },
+  {
+    "name": "Green Chemistry",
+    "rss_link": "http://feeds.rsc.org/rss/gc",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/gc"
+  },
+  {
+    "name": "Dalton Transactions",
+    "rss_link": "http://feeds.rsc.org/rss/dt",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/dt"
+  },
+  {
+    "name": "Lab on a Chip",
+    "rss_link": "http://feeds.rsc.org/rss/lc",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/lc"
+  },
+  {
+    "name": "Angewandte Chemie Int. Ed.",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/15213773/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/15213773"
+  },
+  {
+    "name": "Advanced Materials",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/15214095/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/15214095"
+  },
+  {
+    "name": "Chemistry - A European Journal",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/15213765/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/15213765"
+  },
+  {
+    "name": "ChemBioChem",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/14397633/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/14397633"
+  },
+  {
+    "name": "ChemSusChem",
+    "rss_link": "https://chemistry-europe.onlinelibrary.wiley.com/feed/1864564x/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/1864564x"
+  },
+  {
+    "name": "Proteomics",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/16159861/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/16159861"
+  },
+  {
+    "name": "Small",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/16136829/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/16136829"
+  },
+  {
+    "name": "Advanced Functional Materials",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/16163028/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/16163028"
+  },
+  {
+    "name": "Advanced Energy Materials",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/16146840/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/16146840"
+  },
+  {
+    "name": "FEBS Letters",
+    "rss_link": "https://febs.onlinelibrary.wiley.com/feed/18733468/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/18733468"
+  },
+  {
+    "name": "Advanced Science",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/21983844/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/21983844"
+  },
+  {
+    "name": "Advanced Healthcare Materials",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/21922659/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/21922659"
+  },
+  {
+    "name": "Advanced Optical Materials",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/21951071/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/21951071"
+  },
+  {
+    "name": "Small Methods",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/23669608/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/23669608"
+  },
+  {
+    "name": "ChemPlusChem",
+    "rss_link": "https://chemistry-europe.onlinelibrary.wiley.com/feed/21926506/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/21926506"
+  },
+  {
+    "name": "ChemElectroChem",
+    "rss_link": "https://chemistry-europe.onlinelibrary.wiley.com/feed/21960216/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/21960216"
+  },
+  {
+    "name": "The FEBS Journal",
+    "rss_link": "https://febs.onlinelibrary.wiley.com/feed/17424658/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/17424658"
+  },
+  {
+    "name": "Protein Science",
+    "rss_link": "https://onlinelibrary.wiley.com/feed/1469896x/most-recent",
+    "url": "https://onlinelibrary.wiley.com/journal/1469896x"
+  },
+  {
+    "name": "Cell",
+    "rss_link": "https://www.cell.com/cell/current.rss",
+    "url": "https://www.cell.com/cell"
+  },
+  {
+    "name": "Cell Chemical Biology",
+    "rss_link": "https://www.cell.com/cell-chemical-biology/current.rss",
+    "url": "https://www.cell.com/cell-chemical-biology"
+  },
+  {
+    "name": "Molecular Cell",
+    "rss_link": "https://www.cell.com/molecular-cell/current.rss",
+    "url": "https://www.cell.com/molecular-cell"
+  },
+  {
+    "name": "Chem Catalysis",
+    "rss_link": "https://www.cell.com/chem-catalysis/current.rss",
+    "url": "https://www.cell.com/chem-catalysis"
+  },
+  {
+    "name": "Structure",
+    "rss_link": "https://www.cell.com/structure/current.rss",
+    "url": "https://www.cell.com/structure"
+  },
+  {
+    "name": "Chem",
+    "rss_link": "https://www.cell.com/chem/current.rss",
+    "url": "https://www.cell.com/chem"
+  },
+  {
+    "name": "Trends in Biochemical Sciences",
+    "rss_link": "https://www.cell.com/tibs/current.rss",
+    "url": "https://www.cell.com/tibs"
+  },
+  {
+    "name": "Trends in Chemistry",
+    "rss_link": "https://www.cell.com/trends/chemistry/inpress.rss",
+    "url": "https://www.cell.com/trends/chemistry"
+  },
+  {
+    "name": "Cell Metabolism",
+    "rss_link": "https://www.cell.com/cell-metabolism/current.rss",
+    "url": "https://www.cell.com/cell-metabolism"
+  },
+  {
+    "name": "Trends in Biotechnology",
+    "rss_link": "https://www.cell.com/trends/biotechnology/current.rss",
+    "url": "https://www.cell.com/trends/biotechnology"
+  },
+  {
+    "name": "Trends in Cell Biology",
+    "rss_link": "https://www.cell.com/trends/cell-biology/current.rss",
+    "url": "https://www.cell.com/trends/cell-biology"
+  },
+  {
+    "name": "Biophysical Journal",
+    "rss_link": "https://www.cell.com/biophysj/current.rss",
+    "url": "https://www.cell.com/biophysj"
+  },
+  {
+    "name": "Joule",
+    "rss_link": "https://www.cell.com/joule/current.rss",
+    "url": "https://www.cell.com/joule"
+  },
+  {
+    "name": "Matter",
+    "rss_link": "https://www.cell.com/matter/current.rss",
+    "url": "https://www.cell.com/matter"
+  },
+  {
+    "name": "One Earth",
+    "rss_link": "https://www.cell.com/one-earth/current.rss",
+    "url": "https://www.cell.com/one-earth"
+  },
+  {
+    "name": "iScience",
+    "rss_link": "https://www.cell.com/iscience/current.rss",
+    "url": "https://www.cell.com/iscience"
+  },
+  {
+    "name": "PNAS (Biological Sciences)",
+    "rss_link": "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas",
+    "url": "https://www.pnas.org"
+  },
+  {
+    "name": "PNAS",
+    "rss_link": "https://www.pnas.org/rss/current.xml",
+    "url": "https://www.pnas.org"
+  },
+  {
+    "name": "Annual Review of Analytical Chemistry",
+    "rss_link": "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=6690&jc=anchem&type=etoc&feed=atom",
+    "url": "https://www.annualreviews.org/journal/anchem"
+  },
+  {
+    "name": "Science",
+    "rss_link": "https://www.science.org/rss/news_current.xml",
+    "url": "https://www.science.org/journal/science"
+  },
+  {
+    "name": "Science Advances",
+    "rss_link": "https://www.science.org/rss/current.xml",
+    "url": "https://www.science.org/journal/sciadv"
+  },
+  {
+    "name": "Journal of Biological Chemistry",
+    "rss_link": "https://www.jbc.org/action/showFeed?type=etoc&feed=rss&jc=jbc",
+    "url": "https://www.jbc.org"
+  },
+  {
+    "name": "eLife",
+    "rss_link": "https://elifesciences.org/rss/recent.xml",
+    "url": "https://elifesciences.org"
+  },
+  {
+    "name": "Annual Review of Biochemistry",
+    "rss_link": "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=se&jc=biochem&type=etoc&feed=atom",
+    "url": "https://www.annualreviews.org/journal/biochem"
+  },
+  {
+    "name": "Nucleic Acids Research",
+    "rss_link": "https://academic.oup.com/rss/site_5127/3091.xml",
+    "url": "https://academic.oup.com/nar"
+  },
+  {
+    "name": "Bioinformatics",
+    "rss_link": "https://academic.oup.com/rss/site_5139/3001.xml",
+    "url": "https://academic.oup.com/bioinformatics"
+  },
+  {
+    "name": "Molecular Biology and Evolution",
+    "rss_link": "https://academic.oup.com/rss/site_5325/3191.xml",
+    "url": "https://academic.oup.com/mbe"
+  },
+  {
+    "name": "PLOS Biology",
+    "rss_link": "https://journals.plos.org/plosbiology/feed/atom",
+    "url": "https://journals.plos.org/plosbiology"
+  },
+  {
+    "name": "PLOS Computational Biology",
+    "rss_link": "https://journals.plos.org/ploscompbiol/feed/atom",
+    "url": "https://journals.plos.org/ploscompbiol"
+  },
+  {
+    "name": "Annual Review of Physical Chemistry",
+    "rss_link": "https://www.annualreviews.org/action/showFeed?jc=physchem&type=etoc&feed=atom",
+    "url": "https://www.annualreviews.org/journal/physchem"
+  },
+  {
+    "name": "Analytical and Bioanalytical Chemistry",
+    "rss_link": "https://link.springer.com/search.rss?facet-journal-id=216&channel-name=Analytical+and+Bioanalytical+Chemistry",
+    "url": "https://link.springer.com/journal/216"
+  }
+]
